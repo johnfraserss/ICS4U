@@ -33,39 +33,11 @@ a need for such a code, _or_
 1. Explain the impact of one emerging technology on members of society around the world, and on 
 the economy, _or_
 2. Investigate and explain an emerging technology
-Choose from _one_ of the following options:
-|Emerging Technology Options|
------------------------------
-| * [Embodied Avatars] |
-| * [Fabric-embedded screens] |
-| * [Computational Photography] |
-| * [Artificial Photosynthesis] |
-| * [Vertical Farming] |
-| * [Programmable Matter] |
-| * [Arcologies] |
-| * [Telepresence] |
-| * [Exocortex] |
-| * [Nanomedicine] |
-| * [Machine-augmented Cognition] |
 
-####Collaborative Research
-Report on _one_ of the areas of collaborative research between computer science and other fields:
-| Collaborative Research Options|
----------------------------------
-| * [CS with Biology] |
-| * [CS with Geology] |
-| * [CS with Health Informatics] |
-| * [CS with Sociology] |
-| * [CS with Art] |
-| * [CS with Climatology] |
+Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition, 
+
+#####Collaborative Research
+Report on _one_ of the areas of collaborative research between computer science and other fields: CS with Biology, CS with Geology, CS with Health Informatics, CS with Sociology, CS with Art, or CS with Climatology
 
 ####Theoretical Computer Science
-Investigate and explain on _one_ of the following in theoretical computer science areas:
-| Theoretical Computer Science Options|
----------------------------------------
-| * [Graph Theory] |
-| * [Logic] |
-| * [Computability Theory] |
-| * [Automata Theory] |
-| * [Image Processing] |
-| * [Natural Systems Simulations] |
+Investigate and explain on _one_ of the following in theoretical computer science areas: Graph Theory, Logic, Computability Theory, Automata Theory, Image Processing, Natural Systems Simulations
