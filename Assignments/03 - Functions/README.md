@@ -15,7 +15,7 @@ findInArray(double, double []) //returns the _position(s)_ of first argument fou
 
 Below is an example of how the _add_ function would be written:
 ```java
-void add(double first, double second) {
+double add(double first, double second) {
 	return first + second;
 }
 ```
