@@ -36,7 +36,7 @@ the economy, _or_
 
 Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition, 
 
-#####Collaborative Research
+####Collaborative Research
 Report on _one_ of the areas of collaborative research between computer science and other fields: CS with Biology, CS with Geology, CS with Health Informatics, CS with Sociology, CS with Art, or CS with Climatology
 
 ####Theoretical Computer Science
