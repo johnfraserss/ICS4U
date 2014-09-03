@@ -10,4 +10,4 @@ You have choice on how you submit your work - please choose one of the following
 1. A newscast video that is under 5 minutes containing all of the information from both tasks above.
 2. A newscast podcast/audio transmission that is under 5 minutes containing all of the information from both tasks above.
 
-Submit all of your work to the IN drive (S:\IN\Seidel\<course code>\<student number>\Assignments\Post Secondary). If you created something that is available online rather than something you can submit, please submit a .TXT file with a link to your work.
+Submit all of your work to the IN drive (S:\IN\Seidel\course code\01 - Post Secondary). If you created something that is available online rather than something you can submit, please submit a .TXT file with a link to your work.
