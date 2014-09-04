@@ -23,3 +23,7 @@ double add(double first, double second) {
 Submission Item(s)
 ------------------
 A basic working program that demonstrates your knowledge of the functions given above
+
+Due Date(s)
+-----------
+September 29th
