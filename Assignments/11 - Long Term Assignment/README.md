@@ -7,11 +7,11 @@ Task(s)
 Criteria
 --------
 Your project must follow these criteria:
-* You _must_ work in _groups of 2 to 5_ to complete this project (_NO_ solo project allowed, no exceptions)
-* You _must_ have a product to submit by the due date, even if it is "broken"
+* You **must** work in **groups of 2 to 5** to complete this project (**NO** solo project allowed, **no exceptions**)
+* You **must** have a product to submit by the due date, even if it is "broken"
 * Be complex enough that you can work on it until at least December 8th, 2014
 
-Note: You are _not_ being marked on whether the piece of software works or not.
+Note: You are **not** being marked on whether the piece of software works or not.
 Note 2: If you are ahead of schedule with other work, it is expected that you are working on this project.
 
 Submissables
@@ -28,7 +28,7 @@ Due Date(s)
   2. Progress Report #1 by end of class October 10th, 2014
   3. Software Testing Plan by end of class October 24th, 2014
   4. Progress Report #2 by end of class November 7th, 2014
-3. Product submission December 8th, 2014 by 3:30pm - _no exceptions_
+3. Product submission December 8th, 2014 by 3:30pm - **no exceptions**
 4. Presentations will begin Wednesday, December 10th, 2014
 5. Individual reflection of entire project/process before going off on Winter Break 2014
 
@@ -38,7 +38,7 @@ Presentation Schedule
 ----------------------
 Presentation schedule below. If you know you will be absent, let your teacher know by November 28th, 2014.
 
-_To Be Created_
+**_To Be Created_**
 
 | Date | Group |
 ----------------
