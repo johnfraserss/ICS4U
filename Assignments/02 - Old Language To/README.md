@@ -14,3 +14,7 @@ Create a table of syntax that shows your understanding of the following concepts
 Submission Item(s)
 ------------------
 Table of Syntax
+
+Due Date(s)
+-----------
+This item will be assumed to have been completed by September 19th

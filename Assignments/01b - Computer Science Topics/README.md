@@ -16,17 +16,22 @@ Topics
 --------
 ####Environmental
 Answer _one_ of the following:
+
 1. Outline a strategy to reduce the impact of computers and related technology on the 
 environment and on human health, _or_
+
 2. Report on governmental and community initiatives that:
-a. Encourage environmental stewardship
-b. Promote programs and practices that support sustainability
+  1. Encourage environmental stewardship
+  2. Promote programs and practices that support sustainability
 
 ####Ethics
 Answer _one_ of the following:
+
 1. Analyze an ethical issue related to the use of computers, _or_
+
 2. Describe the essential elements of a code of ethics for computer programmers and why there is 
 a need for such a code, _or_
+
 3. Outline strategies to encourage ethical computing practices at home, at school and at work
 
 ####Emerging Technology
@@ -41,3 +46,7 @@ Report on _one_ of the areas of collaborative research between computer science 
 
 ####Theoretical Computer Science
 Investigate and explain on _one_ of the following in theoretical computer science areas: Graph Theory, Logic, Computability Theory, Automata Theory, Image Processing, Natural Systems Simulations
+
+Due Date(s)
+-----------
+September 15th
