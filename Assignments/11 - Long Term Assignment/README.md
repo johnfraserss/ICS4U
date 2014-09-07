@@ -22,7 +22,7 @@ Submissables
 
 Due Date(s)
 ----------
-1. Verbal software selection chosen and approved by end of class on February 18th, 2014
+1. Verbal software selection chosen and approved by end of class on September 12th, 2014
 2. Formal documentation is due as follows:
   1. Software Scope Document by end of class on September 19th, 2014
   2. Progress Report #1 by end of class October 10th, 2014
