@@ -41,7 +41,7 @@ Presentation schedule below. If you know you will be absent, let your teacher kn
 **_To Be Created_**
 
 | Date | Group |
-----------------
+|------|-------|
 |      |       |
 
 
