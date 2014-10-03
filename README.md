@@ -14,6 +14,7 @@ ICS4U Course for Mr. Seidel's classes
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
 * [Nature of Code - PDF Download Option] (http://natureofcode.com/) - remember you can choose $0
 * [Nature of Code - Online Book] (http://natureofcode.com/book/)
+* [Nature of Code - Code Examples Repo] (https://github.com/shiffman/The-Nature-of-Code-Examples)
 
 ####Programming Language and Resources
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
