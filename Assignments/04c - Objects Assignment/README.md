@@ -4,10 +4,10 @@ You **may** work in pairs for this assignment.
 
 1. Create a program that demonstrates your understanding of Objects, Distribution, and Vectors.  This program must follow the theme of your semester (below), and must be animated in some way based on the theme.  See examples for more ideas and options if you can't think of anything.
 
-2014-2015 Fall Theme: Water
-2014-2015 Spring Theme: Fire
+* 2014-2015 Fall Theme: Water
+* 2014-2015 Spring Theme: Fire
 
-Examples:
+Examples
 ----------
 * [Example #1 (Fire)] (http://farm4.static.flickr.com/3590/3675740987_c2eaa1b012_b.jpg)
 * [Example #2 (Fire)] (http://wallpaperswa.com/thumbnails/detail/20120331/abstract%20colorful%20illustrations%20artwork%20bright%20generative%20art%20patrick%20gunderson%201920x1080%20wallpap_www.wallpaperhi.com_33.jpg)
