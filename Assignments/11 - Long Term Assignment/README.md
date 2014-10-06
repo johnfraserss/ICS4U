@@ -25,7 +25,7 @@ Due Date(s)
 1. Verbal software selection chosen and approved by end of class on September 12th, 2014
 2. Formal documentation is due as follows:
   1. Software Scope Document by end of class on September 19th, 2014
-  2. Progress Report #1 by end of class October 10th, 2014
+  2. Progress Report #1 by end of class October 9th, 2014
   3. Software Testing Plan by end of class October 24th, 2014
   4. Progress Report #2 by end of class November 7th, 2014
 3. Product submission December 8th, 2014 by 3:30pm - **no exceptions**
