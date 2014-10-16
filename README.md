@@ -9,6 +9,7 @@ ICS4U Course for Mr. Seidel's classes
   * Computer Science Topics: Sept 15
   * Old Language To...: Sept 19
   * Functions: Sept 25
+  * Objects: Oct 24
 
 ####Resources and Surveys
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
