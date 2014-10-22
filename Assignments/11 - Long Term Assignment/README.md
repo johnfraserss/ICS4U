@@ -29,7 +29,7 @@ Due Date(s)
   3. Software Testing Plan by end of class October 24th, 2014
   4. Progress Report #2 by end of class November 7th, 2014
 3. Product submission December 8th, 2014 by 3:30pm - **no exceptions**
-4. Presentations will begin Wednesday, December 10th, 2014
+4. Presentations will begin Wednesday, December 9th, 2014
 5. Individual reflection of entire project/process before going off on Winter Break 2014
 
 If not stated above, submit all work to all of the group members' folders to I drive.
