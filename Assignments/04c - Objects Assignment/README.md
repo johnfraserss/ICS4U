@@ -30,10 +30,10 @@ This rubric is out of a total of 28
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|A1.3:  Demonstrate the ability to use non-numeric comparison | | | | | |
-|A1.5: Describe and use one-dimensional arrays of compound data types (objects) in a computer program | | | | | |
-|A2.1: Create a modular program that is divided among multiple files  | | | | | |
-|A2.2: Use modular design concepts that support reusable code (e.g. encapsulation, overloading, etc)  | | | | | |
+|A1.3: Demonstrate the ability to use non-numeric comparison (i.e. using PVectors) | | | | | |
+|A1.5: Use one-dimensional arrays of compound data types (objects) in a computer program | | | | | |
+|A2.1: Create a modular program that is divided among multiple files (i.e. multiple tabs)  | | | | | |
+|A2.2: Use modular design concepts that support reusable code (i.e. encapsulation, functions, etc.)  | | | | | |
 |A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |
 |A4.3: Create fully documented program code according to industry standards (block comments, line comments, etc.)  | | | | | |
-|C1.2: Demonstrate the ability to apply data encapsulation in program design  | | | | | |
+|C1.2: Demonstrate the ability to apply data encapsulation in program design (i.e. full encapsulation)  | | | | | |
