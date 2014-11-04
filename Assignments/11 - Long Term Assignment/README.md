@@ -46,10 +46,9 @@ Presentation schedule below. If you know you will be absent, let your teacher kn
 | Dec 10, 2014 | Viraj, Amit, Hadi, Chen |
 | Dec 11, 2014 | Muhammed, Arslan |
 | Dec 12, 2014 | Danny, Alan      |
-| Dec 12, 2014 | Arsala |
 | Dec 15, 2014 | Andrew, Amar, Ahmed, Brian, Cecil |
 | Dec 16, 2014 | Mark, Pengfei, Adrian, Andre, Jamie |
-| Dec 17, 2014 | Kevin, Eric |
+| Dec 17, 2014 | Kevin, Eric, Arsala |
 
 
 Rubric(s)
