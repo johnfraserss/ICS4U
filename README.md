@@ -3,14 +3,6 @@ ICS4U
 
 ICS4U Course for Mr. Seidel's classes
 
-####Notes and Updates
-* Due dates added for assignments 1-4
-  * Post Secondary: Sept 8
-  * Computer Science Topics: Sept 15
-  * Old Language To...: Sept 19
-  * Functions: Sept 25
-  * Objects: Oct 24
-
 ####Resources and Surveys
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
 * [Nature of Code - PDF Download Option] (http://natureofcode.com/) - remember you can choose $0
