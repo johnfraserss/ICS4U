@@ -5,6 +5,8 @@ You **may** work in pairs for this assignment.
 1. Using a **royalty-free school-appropriate** MP3 file create a visualization that is related to the data coming in from the MP3 file, **OR**
 2. Using a **copyright-free school-appropriate** picture, create a basic image filter that will tint the image green within 50 pixels of the mouse **using the pixels[] array**.
 
+For an example on Javadocs (required for this assignment only) - see the Circle.pde file for information (above).
+
 Submission Item(s)
 ------------------
 Hand in the work to the IN folder
