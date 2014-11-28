@@ -13,7 +13,7 @@ Hand in the work to the IN folder
 
 Due Date(s)
 -----------
-This assignment is due by December 2nd, 2014 - **no exceptions**
+This assignment is due by December 2nd, 2014 by 12:13pm (in the timezone where Toronto, Ontario, Canada is) - **no exceptions**
 
 Rubric(s)
 ---------
