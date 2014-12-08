@@ -38,7 +38,4 @@ This rubric is out of a total of 28
 |A4.3: Create fully documented program code according to industry standards (block comments, line comments, etc.)  | | | | | |
 |C1.2: Demonstrate the ability to apply data encapsulation in program design (i.e. full encapsulation)  | | | | | |
 
-The final mark for this assignment will be calculated as:
-Mark = R * C
-R = Rubric total
-C = Completed the task as requested/described (worth 0 or 1)
+The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
