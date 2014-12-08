@@ -27,6 +27,8 @@ This rubric is out of a total of 12
 |A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |
 |A4.3: Create fully documented program code according to industry standards (**no javadocs req**, block comments, line comments, etc.)  | | | | | |
 
+The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
+
 Notes:
 ------
 To roughly calculate the computational complexity of a sorting algorithm (also known as "Big-Oh" notation), you count the number of statements executed, the number of iterations of a loop, and/or the number of comparisons performed.
