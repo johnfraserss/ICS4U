@@ -25,9 +25,9 @@ Submission Item(s)
 A basic working program that demonstrates your knowledge of the functions given above
 
 Due Date(s)
+-------------
+September 25th
 
 Marking Scheme
--------------
-1 mark per function
 -----------
-September 25th
+1 mark per function
