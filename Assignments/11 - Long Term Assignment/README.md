@@ -9,7 +9,7 @@ Criteria
 Your project must follow these criteria:
 * You **must** work in **groups of 2 to 5** to complete this project (**NO** solo project allowed, **no exceptions**)
 * You **must** have a product to submit by the due date, even if it is "broken"
-* Be complex enough that you can work on it until at least December 8th, 2014
+* Be complex enough that you can work on it until at least May 4th, 2015
 
 Note: You are **not** being marked on whether the piece of software works or not.
 Note 2: If you are ahead of schedule with other work, it is expected that you are working on this project.
@@ -22,33 +22,33 @@ Submissables
 
 Due Date(s)
 ----------
-1. Verbal software selection chosen and approved by end of class on September 12th, 2014
+1. Verbal software selection chosen and approved by end of class on February 13th, 2015
 2. Formal documentation is due as follows:
-  1. Software Scope Document by end of class on September 19th, 2014
-  2. Progress Report #1 by end of class October 9th, 2014
-  3. Software Testing Plan by end of class October 24th, 2014
-  4. Progress Report #2 by end of class November 7th, 2014
-3. Product submission December 8th, 2014 by 3:30pm - **no exceptions**
-4. Presentations will begin Wednesday, December 9th, 2014
-5. Individual reflection of entire project/process before going off on Winter Break 2014
+  1. Software Scope Document by end of class on February 20th, 2015
+  2. Progress Report #1 by end of class March 9th, 2015
+  3. Software Testing Plan by end of class March 13th, 2015
+  4. Progress Report #2 by end of class April 10th, 2015
+3. Product submission May 4th, 2015 by 3:30pm - **no exceptions**
+4. Presentations will begin Tuesday, May 5th, 2015
+5. Individual reflection of entire project/process by May 29th, 2015 by 3:30pm
 
 If not stated above, submit all work to all of the group members' folders to I drive.
 
 Presentation Schedule
 ----------------------
-Presentation schedule below. If you know you will be absent, let your teacher know by November 28th, 2014.
+Presentation schedule below. If you know you will be absent, let your teacher know by April 17th, 2015.
 
 **_To Be Created_**
 
 | Date | Group |
 |------|-------|
-| Dec 09, 2014 | Chiranjeev, Mohamed, Ramy, Murtaza, Damian |
-| Dec 10, 2014 | Viraj, Amit, Hadi, Chen |
-| Dec 11, 2014 | Muhammed, Arslan |
-| Dec 12, 2014 | Danny, Alan      |
-| Dec 15, 2014 | Andrew, Amar, Ahmed, Brian, Cecil |
-| Dec 16, 2014 | Mark, Pengfei, Adrian, Andre, Jamie |
-| Dec 17, 2014 | Kevin, Eric, Arsala |
+| May 05, 2015 |  |
+| May 06, 2015 |  |
+| May 07, 2015 |  |
+| May 08, 2015 |  |
+| May 11, 2015 |  |
+| May 12, 2015 |  |
+| May 13, 2015 |  |
 
 
 Rubric(s)
