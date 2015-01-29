@@ -32,7 +32,7 @@ Due Date(s)
 4. Presentations will begin Tuesday, May 5th, 2015
 5. Individual reflection of entire project/process by May 29th, 2015 by 3:30pm
 
-If not stated above, submit all work to all of the group members' folders to I drive.
+If not stated above, ensure all names are in filename in the IN folder.
 
 Presentation Schedule
 ----------------------
