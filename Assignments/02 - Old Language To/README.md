@@ -17,4 +17,4 @@ Table of Syntax
 
 Due Date(s)
 -----------
-This item will be assumed to have been completed by September 19th
+Do **not** hand this in. This item will be assumed to have been completed by February 11th.
