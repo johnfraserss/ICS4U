@@ -26,7 +26,7 @@ A basic working program that demonstrates your knowledge of the functions given 
 
 Due Date(s)
 -------------
-September 25th
+February 18th
 
 Marking Scheme
 -----------
