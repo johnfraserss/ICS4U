@@ -1,7 +1,6 @@
 Task(s)
 -------
-1. Research and describe career choices and trends in computer science at the national and international level.
-2. Research and report on post-secondary educational programs leading to careers in information systems and/or computer science.
+1. Research and report on post-secondary educational programs leading to careers in information systems and/or computer science.
 
 Submission Item(s)
 ------------------
@@ -14,4 +13,4 @@ Submit all of your work to the IN drive (S:\IN\Seidel\course code\01 - Post Seco
 
 Due Date(s)
 -----------
-September 8th
+February 6th
