@@ -1,16 +1,11 @@
 Task(s)
 -------
-1. Research and report on post-secondary educational programs leading to careers in information systems and/or computer science.
+1. After listening to the guest speaker, write a short blurb (less than 1/2 a page) that explains whether you would  (or wouldn't) be interested in working for a company such as the one described during the guest speaker's talk. List multiple reasons.
 
 Submission Item(s)
 ------------------
-You have choice on how you submit your work - please choose one of the following options to submit your work.
+Submit all of your work to the IN drive (S:\IN\Seidel\course code\01 - Post Secondary). Ensure your name is part of the filename
 
-1. A newscast video that is under 5 minutes containing all of the information from both tasks above.
-2. A newscast podcast/audio transmission that is under 5 minutes containing all of the information from both tasks above.
-
-Submit all of your work to the IN drive (S:\IN\Seidel\course code\01 - Post Secondary). If you created something that is available online rather than something you can submit, please submit a .TXT file with a link to your work.
-
-Due Date(s)
------------
+Due Date
+--------
 February 6th
