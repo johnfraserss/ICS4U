@@ -15,6 +15,12 @@ findInArray(float, float []) //returns the _position(s)_ of first argument found
 
 Below is an example of how the _add_ function would be written:
 ```java
+/** This function takes in two float values and returns the sum of those two values
+ *
+ *  @param first   This is the first float of the sum
+ *  @param second  This is the second float of the sum
+ *  @return        The return value is the sum of first and second as a float value
+ */
 float add(float first, float second) {
 	return first + second;
 }
