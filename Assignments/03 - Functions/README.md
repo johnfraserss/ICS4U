@@ -28,7 +28,7 @@ float add(float first, float second) {
 
 Submission Item(s)
 ------------------
-A basic working program that demonstrates your knowledge of the functions given above
+A basic working program that demonstrates your knowledge of the functions given above (including documentation)
 
 Due Date(s)
 -------------
@@ -36,4 +36,4 @@ February 18th
 
 Marking Scheme
 -----------
-1 mark per function
+1 mark per function (0.5 per function's documentation)
