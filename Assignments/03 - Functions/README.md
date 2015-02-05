@@ -30,6 +30,7 @@ Submission Item(s)
 ------------------
 A basic working program that demonstrates your knowledge of the functions given above (including documentation)
 
+**Note: There is an example file called Circle.pde (check up top) you can check for more standard commenting/documentation practices**
 Due Date(s)
 -------------
 February 18th
