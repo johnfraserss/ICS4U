@@ -1,9 +1,9 @@
 /**
  * This Circle will be used as a generic outline for what to do when we want
- * do create a Circle on the screen.
+ * to create a circle on the screen.
  * 
  * @author Mr. Seidel
- * @version 1.0
+ * @version 1.1
  * @since Processing 2.1
  * @since Nov 2014
  */
@@ -14,7 +14,7 @@ class Circle {
     /**
      * This function returns the diameter of this circle
      * 
-     * @return the diameter of the circle
+     * @return the diameter of this Circle object (as a float)
      */
     float diameter() {
         return radius * 2;
@@ -23,7 +23,7 @@ class Circle {
     /**
      * This function returns the radius of this circle
      * 
-     * @return the radius of the circle
+     * @return the radius of this Circle object (as a float)
      */
     float radius() {
         return radius;
@@ -31,15 +31,16 @@ class Circle {
     
     /**
      * This function calculates and returns the circumference of this circle
-     * 
-     * @return the circumference of the circle (as a float)
+     * --This function uses the diameter() function 
+     *
+     * @return the circumference of this Circle object (as a float)
      */
     float circumference() {
-        return (float)(2 * Math.PI * radius);
+        return (float)(Math.PI * diameter());
     }
     
     /**
-     * This function calculates and returns the area of this circle
+     * This function calculates and returns the area of this Circle object
      * 
      * @return the area of the circle (as a float)
      */
@@ -49,12 +50,20 @@ class Circle {
     
     /**
      * This function will calculate the distance between another 
-     * point and this Circle
+     * point and this Circle object
      * 
      * @param point the other point to calculate distance from (as PVector)
      * @return      the value of the distance between points (as a float)
      */
     float distanceFrom(PVector point) {
-        return (dist(point.x, point.y, location.x, location.y));
+        return (float)(dist(point.x, point.y, location.x, location.y));
+    }
+    
+    /**
+     * This function will display the Circle object on the screen
+     * --This function uses the local diameter() function
+     */
+    void display() {
+        ellipse(location.x, location.y, diameter(), diameter());
     }
 }
