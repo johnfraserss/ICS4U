@@ -3,7 +3,7 @@
  * to create a circle on the screen.
  * 
  * @author Mr. Seidel
- * @version 1.1
+ * @version 1.2
  * @since Processing 2.1
  * @since Nov 2014
  */
