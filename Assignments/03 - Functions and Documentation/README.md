@@ -7,8 +7,8 @@ add(float, float) //returns a float
 subtract(float, float) //returns a float
 multiply(float, float) //returns a float
 divide(float, float) //returns a float
-max(float, float) //returns a float
-min(float, float) //returns a float
+maximum(float, float) //returns the larger of the two values as a float
+mininum(float, float) //returns the smallest of the two values as a float
 reverse(float []) //returns a reversed float [ ] array (can use ArrayLists if you prefer)
 findInArray(float, float []) //returns the _position(s)_ of first argument found in the second argument (int [])
 ```
