@@ -33,7 +33,7 @@ A basic working program that demonstrates your knowledge of the functions given 
 **Note: There is an example file called Circle.pde (check up top) you can check for more standard commenting/documentation practices**
 Due Date(s)
 -------------
-February 18th
+February 19th by 3pm (updated due date)
 
 Marking Scheme
 -----------
