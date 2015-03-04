@@ -14,7 +14,7 @@ Hand in the work to the IN folder
 
 Due Date(s)
 -----------
-This assignment is due by May 1st, 2015 at 3pm - **no exceptions**
+This assignment is due by April 24th, 2015 at 3pm - **no exceptions**
 (Note: multiple assignments are due on this day)
 
 Rubric(s)
