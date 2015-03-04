@@ -22,7 +22,7 @@ Hand in the work to the IN folder
 
 Due Date(s)
 -----------
-This assignment is due by March 25th, 2015 at 3pm - no exceptions
+This assignment is due by March 23rd, 2015 at 3pm - no exceptions
 
 Rubric(s)
 ---------
