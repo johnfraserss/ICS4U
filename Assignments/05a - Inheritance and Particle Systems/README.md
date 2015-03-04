@@ -12,4 +12,4 @@ Do **not** hand in any of the work.  Your work will be checked for completion an
 
 Due Date(s)
 -----------
-The exercises will be assumed to be completed by March 30
+The exercises will be assumed to be completed by March 25
