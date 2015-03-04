@@ -46,8 +46,9 @@ Hand in the work to the IN folder
 
 Due Date(s)
 -----------
-This assignment is due by May 5th by 3pm - **no exceptions**
+This assignment is due by May 4th by 3:30pm - **no exceptions**
 
+__Note__: The long-term assignment is also due this day
 
 Rubric(s)
 ---------
