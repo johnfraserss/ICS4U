@@ -5,7 +5,7 @@ You **may** work in pairs for this assignment.
 1. Modify and enhance your Objects Assignment by using your knowledge of Inheritance and Polymorphism. This program must continue to follow the theme of your semester (below), and must be animated in some way based on the theme.  See examples for more ideas and options if you can't think of anything.
 
 * 2014-2015 Fall Theme: Water
-* 2014-2015 Spring Theme: Fire
+* __2014-2015 Spring Theme: Fire__
 
 Examples
 ----------
