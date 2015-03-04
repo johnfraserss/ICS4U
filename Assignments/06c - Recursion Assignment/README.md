@@ -17,7 +17,7 @@ Hand in the work to the IN folder
 
 Due Date(s)
 -----------
-This assignment is due by April 24th, 2015 - **no exceptions**
+This assignment is due by April 15th, 2015 - **no exceptions**
 
 Rubric(s)
 ---------
