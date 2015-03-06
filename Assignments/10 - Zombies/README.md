@@ -4,7 +4,7 @@ You **may** work in groups of 2 to complete this assignment
 
 You will need PVectors, Objects, Inheritance, Files, Sorting, and Searching knowledge to complete this assignment.
 
-* Run the program in OUT\SEIDEL\ICS4U\ZOMBIES folder to generate a .txt file for yourself - everyone's will be different, but your program will have to work with any of the .txt files generated!
+* Run the program OUT\SEIDEL\ICS4U\ZOMBIES\RunMe.exe to generate a .txt file for yourself - everyone's will be different, but your program will have to work with any of the .txt files generated!
 * This text file will hold information regarding:
   * The minimum size of your screen
   * Zombie spawn interval (in seconds)
