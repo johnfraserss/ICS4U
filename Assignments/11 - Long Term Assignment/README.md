@@ -30,7 +30,7 @@ Due Date(s)
   4. Progress Report #2 by end of class April 10th, 2015
 3. Product submission May 4th, 2015 by 3:30pm - **no exceptions**
 4. Presentations will begin Tuesday, May 5th, 2015
-5. Individual reflection of entire project/process by May 29th, 2015 by 3:30pm
+5. Individual reflection of entire project/process by May 15th, 2015 by 3:30pm
 
 If not stated above, ensure all names are in filename in the IN folder.
 
@@ -38,17 +38,13 @@ Presentation Schedule
 ----------------------
 Presentation schedule below. If you know you will be absent, let your teacher know by April 17th, 2015.
 
-**_To Be Created_**
-
 | Date | Group |
 |------|-------|
-| May 05, 2015 |  |
-| May 06, 2015 |  |
-| May 07, 2015 |  |
-| May 08, 2015 |  |
-| May 11, 2015 |  |
-| May 12, 2015 |  |
-| May 13, 2015 |  |
+| May 05, 2015 | Omar, Larry, Amin |
+| May 06, 2015 | Sarah, Wendy, Carina, Ibraheem |
+| May 07, 2015 | Colin, Kevin, Xianqi, Steven, Preston |
+| May 08, 2015 | Zaid, Mohsin |
+| May 11, 2015 | Anas, Priyak, Kevin, Sowmya |
 
 
 Rubric(s)
