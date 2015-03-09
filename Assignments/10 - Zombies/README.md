@@ -16,16 +16,16 @@ You will need PVectors, Objects, Inheritance, Files, Sorting, and Searching know
   * Fire Station locations (top left corner)
 
 * Properties of Zombies:
-  * Zombies are 5x5 rectangular beings that leave a trail of fire (2x2 rectangle) behind them that is no longer than 10 pixels in length.
+  * Zombies are 10x10 rectangular beings that leave a trail of fire (4x4 rectangle) behind them that is no longer than 10 pixels in length.
   * Zombies cannot come within 50 pixels of the centre of a fire station
   * They move randomly via a noise() function, unless within 20 pixels of a Fireman.  
   * If they leave the screen completely a new Zombie gets created at one of the randomly positions in the text file.
   * Zombies move 20% faster than Firemen
 
 * Properties of Fireman
-  * Firemen spawn at fire stations (8x8 yellow block)
+  * Firemen spawn at fire stations (16x16 yellow block)
   * Firemen dowse fire trails as they pass over them
-  * Firemen are blue 3x3 rectangular beings that go towards the __closest__ Zombie that is **not** in combat with and attempt to drown them (if they are within a range of 50 pixels)!
+  * Firemen are blue 6x6 rectangular beings that go towards the __closest__ Zombie that is **not** in combat with and attempt to drown them (if they are within a range of 50 pixels)!
   * If successful, they then take the time to move around cleaning up the fire trail that the zombie left behind - always working on the __closest__ piece of fire trail.  
   * If unsuccessful, the Fireman turns into a Zombie!
 
@@ -36,7 +36,7 @@ You will need PVectors, Objects, Inheritance, Files, Sorting, and Searching know
   * For every successful fight, the Fireman gains another _success token_
 
 * From a programming stand point:
-  * Zombies inherit properties and methods from Firemen
+  * Firemen inherit properties and methods from Zombies
   * You should always have a sorted arrays of Zombies and Firemen (you need to figure out how to do this so it is effective)
   * The __closest__ Zombie is always found via a binary search on positions (you need to figure out how to do this so it is effective)
 
