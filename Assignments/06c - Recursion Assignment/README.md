@@ -2,13 +2,13 @@ Task(s)
 -------
 You **may** work in pairs for this assignment.
 
-1. Using your knowledge of Recursion and L-Systems, create a program that will do the following:
-  -Create "Creature" objects
-  -Your "Creature" objects will behave based on an L-System.
-  -Your L-System must have:
-    -At least 3 generations (calculated recursively)
-    -At least an 8 symbol alphabet
-    -At least a number of rules equal to the number of symbols in your alphabet
+* Using your knowledge of Recursion and L-Systems, create a program that will do the following:
+  * Create "Creature" objects
+  * Your "Creature" objects will behave based on an L-System.
+  * Your L-System must have:
+    * At least 3 generations (calculated recursively)
+    * At least an 8 symbol alphabet
+    * At least a number of rules equal to the number of symbols in your alphabet
 
 
 Submission Item(s)
