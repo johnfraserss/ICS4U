@@ -1,5 +1,7 @@
 Task(s)
 -------
+**NOTE: This is an OPTIONAL assignment.  The mark from this assignment will be used to replace ONE previously completed assignment.  The assignment chosen will be the one with the lowest mark out of the following assignments: Functions, Objects, Inheritance, or Files**
+
 You **may** work in groups of 2 to complete this assignment
 
 You will need PVectors, Objects, Inheritance, Files, Sorting, and Searching knowledge to complete this assignment.
@@ -54,11 +56,16 @@ __Note__: The long-term assignment is also due this day
 
 Rubric(s)
 ---------
-This rubric is out of a total of ??
+This rubric is out of a total of 28
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|A?.?: This rubric will be updated at a future time  | | | | | |
-
+|A1.2: Demonstrate type conversion (string-to-integer, string-to-float, etc.)  | | | | | |
+|A2.2: Use modular design concepts that support reusable code (e.g. encapsulation, inheritance, polymorphism, etc.)  | | | | | |
+|A3.2: Create and use a searching algorithm on an array of of sorted objects  | | | | | |
+|A3.4: Create and use a sorting algorithm on an array of objects  | | | | | |
+|A4.3: Create fully documented program code according to industry standards (e.g. javadocs, block comments, line comments, variable naming practices, etc.)  | | | | | |
+|C1.2: Demonstrate the ability to apply data encapsulation in program design  | | | | | |
+|C1.3: Demonstrate the ability to apply the process of functional decomposition in subprogram design  | | | | | |
 
 The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
