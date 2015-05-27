@@ -1,6 +1,6 @@
 Task(s)
 -------
-**NOTE: This is an OPTIONAL assignment.  The mark from this assignment will be used to replace ONE previously completed assignment.  The assignment chosen will be the one with the lowest mark out of the following assignments: Functions, Objects, Inheritance, or Files**
+**NOTE: Due to time constraints, this assignment has been cancelled**
 
 You **may** work in groups of 2 to complete this assignment
 
