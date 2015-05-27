@@ -28,23 +28,23 @@ Due Date(s)
   2. Progress Report #1 by end of class March 9th, 2015
   3. Software Testing Plan by end of class March 13th, 2015
   4. Progress Report #2 by end of class April 10th, 2015
-3. Product submission May 4th, 2015 by 3:30pm - **no exceptions**
+3. Product submission **May 29th, 2015 by 3:01pm** - no exceptions
 4. Presentations will begin Tuesday, May 5th, 2015
-5. Individual reflection of entire project/process by May 15th, 2015 by 3:30pm
+5. Individual reflection of entire project/process by **June 12th, 2015** by 3:30pm
 
 If not stated above, ensure all names are in filename in the IN folder.
 
 Presentation Schedule
 ----------------------
-Presentation schedule below. If you know you will be absent, let your teacher know by April 17th, 2015.
+Presentation schedule below. If you know you will be absent, let your teacher know by May 29th, 2015.
 
 | Date | Group |
 |------|-------|
-| May 05, 2015 | Omar, Larry, Amin |
-| May 06, 2015 | Sarah, Wendy, Carina, Ibraheem |
-| May 07, 2015 | Colin, Kevin, Xianqi, Steven, Preston |
-| May 08, 2015 | Zaid, Mohsin |
-| May 11, 2015 | Anas, Priyak, Kevin, Sowmya |
+| June 01, 2015 | Omar, Larry, Amin |
+| June 02, 2015 | Colin, Kevin, Xianqi, Steven, Preston |
+| June 03, 2015 | Sarah, Wendy, Carina, Ibraheem |
+| June 04, 2015 | Zaid, Mohsin |
+| June 05, 2015 | Anas, Priyak, Kevin, Sowmya |
 
 
 Rubric(s)
