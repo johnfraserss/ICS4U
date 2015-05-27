@@ -29,7 +29,7 @@ Due Date(s)
   3. Software Testing Plan by end of class March 13th, 2015
   4. Progress Report #2 by end of class April 10th, 2015
 3. Product submission **May 29th, 2015 by 3:01pm** - no exceptions
-4. Presentations will begin Tuesday, May 5th, 2015
+4. Presentations will begin **June 1st, 2015**
 5. Individual reflection of entire project/process by **June 12th, 2015** by 3:30pm
 
 If not stated above, ensure all names are in filename in the IN folder.
