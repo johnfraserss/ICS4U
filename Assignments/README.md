@@ -2,8 +2,8 @@ For all file submissions, ensure that your name is part of the filename.
 
 Do **not** include your student number anymore.  Your student number has been removed from all previously submitted work.
 
-####Diagnostic/Review/Practice Schedule####
-Each diagnostic will contain approximately 1-4 questions, but will not be calculated towards your mark.  These diagnostics are for your own personal use and understanding.
+####Assessment Schedule####
+Each assessment will contain approximately 1-2 questions, and **could** be calculated towards your mark.  These assessments will be used to ensure understanding of the topics below.
 
 | Date | Topic |
 | ---- | ----- |
