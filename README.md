@@ -13,3 +13,23 @@ ICS4U Course for Mr. Seidel's classes
 * [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
 * [Daniel Shiffman - Nature of Code Videos] (http://vimeo.com/channels/natureofcode)
 
+####Tentative Topics
+_Note: Some of these topics may be assigned as homework throughout the course, and the order may change as the course progresses_
+* Functions (beyond void)
+* Objects
+* Inheritance
+* Interfaces
+* Polymorphism
+* Recursion (graphical, and non-graphical)
+* Input/Output
+* Sorting
+* Searching
+* Project Management
+* Major Project
+* Environmental Stewardship
+* Emerging Technology
+* Ethics
+* Collaborative Research
+* Theoretical Computer Science
+* Postsecondary Opportunities
+* Final Assessment (see course outline for more information on this topic)
