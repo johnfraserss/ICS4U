@@ -33,3 +33,6 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * Theoretical Computer Science
 * Postsecondary Opportunities
 * Final Assessment (see course outline for more information on this topic)
+
+
+Complete this [survey](http://goo.gl/forms/hRdgVeawj9).
