@@ -14,7 +14,7 @@ If you forget how to get your work into Eclipse, you can follow the steps below:
 
 Submission Item(s)
 ------------------
-Ensure your teacher sees your work after completion.
+Ensure your teacher sees your work after completion.  Assumed completion by Sept 25th.
 
 Rubric(s)
 ---------
