@@ -1,6 +1,6 @@
 Task(s)
 -------
-Download the code found [here](https://github.com/mrseidel-classes/ICS4U/tree/master/Code/Objects/src).  After downloading the code and putting them into Eclipse, fill in the blank areas of the following Java files:
+Download the code found [here](https://github.com/mrseidel-classes/ICS4U-Code/tree/master/Objects).  After downloading the code and putting them into Eclipse, fill in the blank areas of the following Java files:
 
 * Circle.java
 * Rectangle.java
@@ -8,9 +8,9 @@ Download the code found [here](https://github.com/mrseidel-classes/ICS4U/tree/ma
 
 There are areas that are commented to let you know what sections to fill in.
 
-If you forget how to place your work into Eclipse, you can follow the steps below:
+If you forget how to get your work into Eclipse, you can follow the steps below:
 
-1. Steps will be inserted here including screenshots
+1. [YouTube Video](https://youtu.be/qaafLvNh_vw)
 
 Submission Item(s)
 ------------------
