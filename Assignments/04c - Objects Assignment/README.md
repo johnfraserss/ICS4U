@@ -10,7 +10,9 @@ There are areas that are commented to let you know what sections to fill in.
 
 If you forget how to get your work into Eclipse, you can follow the steps below:
 
-1. [YouTube Video](https://youtu.be/qaafLvNh_vw)
+* [YouTube Video](https://youtu.be/qaafLvNh_vw)
+
+_**Remember to properly document your code and use proper variable names**_
 
 Submission Item(s)
 ------------------
