@@ -4,7 +4,7 @@ Task(s)
 1. Download the new set of code from the Github repository.  
 2. You are to create a new Java Package called *Inheritance*.  
 3. Copy and paste the code from the repository into your own package.
-4. Copy and paste the change you made in your [*Objects* assignment](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04c%20-%20Objects%20Assignment) for the following files:
+4. Copy and paste **only the changes** you made in your [*Objects* assignment](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04c%20-%20Objects%20Assignment) for the following files:
 	* Circle.java
 	* Rectangle.java
 	* MainFile.java
