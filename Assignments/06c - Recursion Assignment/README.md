@@ -23,6 +23,7 @@ Hand in the work to the IN folder
 Due Date(s)
 -----------
 This assignment is due by October 8th, 2015 by 3pm - **no exceptions**
+_**There will be a recursion test on October 9th, 2015 in class to ensure understanding**_
 
 Rubric(s)
 ---------
