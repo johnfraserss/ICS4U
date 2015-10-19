@@ -16,7 +16,7 @@ _**Remember to properly document your code and use proper variable names**_
 
 Submission Item(s)
 ------------------
-Ensure your teacher sees your work after completion.  Assumed completion by October 16th.
+Ensure your teacher sees your work after completion.  Assumed completion by October 21st.
 
 Rubric(s)
 ---------
