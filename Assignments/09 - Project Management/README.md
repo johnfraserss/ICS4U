@@ -6,7 +6,7 @@ This task was completed in class.
 
 Rubric
 ------
-This rubric is out of a total of 8
+This rubric is out of a total of 36
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
