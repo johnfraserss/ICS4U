@@ -9,9 +9,7 @@ You **may** work in pairs for this assignment.
 5. **Careful**: When copying code over for new code that is in _MainFile.java_, ensure you only copy the code into the blanks stated.
 6. Fill in the blanks in the **MainFile.java** in the sorting package.
 
-Submission Item(s)
-------------------
-Hand in the work to the IN folder
+[Sorting Notes available here](http://prezi.com/_c5eer8nslnm/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 Due Date(s)
 -----------
