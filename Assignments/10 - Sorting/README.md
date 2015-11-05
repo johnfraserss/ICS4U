@@ -13,7 +13,7 @@ You **may** work in pairs for this assignment.
 
 Due Date(s)
 -----------
-Ensure your teacher sees your work after completion.  Assumed completion by November 5th.
+Ensure your teacher sees your work after completion.  Assumed completion by November 6th.
 
 Rubric(s)
 ---------
