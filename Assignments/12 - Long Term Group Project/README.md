@@ -67,16 +67,13 @@ If not stated above, ensure all names are in filename in the IN folder.
 
 Presentation Schedule
 ----------------------
-Presentation schedule below. If you know you will be absent, let your teacher know by January 4th, 2016.
+Presentation schedule below. If you know you will be absent, let your teacher know by January 7th, 2016.
 
 | Date | Group |
 |------|-------|
-| Jan 12, 2016 | Group A |
-| Jan 13, 2016 | Group B |
-| Jan 14, 2016 | Group C |
-| Jan 15, 2016 | Group D |
-| Jan 16, 2016 | Group E |
-| Jan 17, 2016 | Group F |
+| Jan 12, 2016 | Rohan/Amin/Daniyal/Shariq's Group, Ronnie/Emily/Saeed's Group |
+| Jan 14, 2016 | Frederick/Kevin/Brandon/Felix's Group, Victor/Sally/Krish/Amin's Group |
+| Jan 15, 2016 | Rohan/Ali/Tarun/Taimoor's Group, James/Eric/Kyle's Group |
 
 
 Rubric(s)
