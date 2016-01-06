@@ -12,7 +12,7 @@ Submission Item(s)
 
 Due Date(s)
 -----------
-All items must be in the IN folder by by Wednesday, January 20th, 2016 at 4:00pm - **no exceptions**
+All items must be in the IN folder by by Thursday, January 21st, 2016 at 3:00pm - **no exceptions**
 
 Rubric(s)
 ---------
