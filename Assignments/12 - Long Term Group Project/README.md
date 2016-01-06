@@ -61,7 +61,7 @@ Timeline(s) and Due Date(s)
 4. Presentations will begin 
   * January 12th, 2016
 5. Individual reflection of entire project/process:
-  * January 18th, 2016
+  * **The school day after your presentation**
 
 If not stated above, ensure all names are in filename in the IN folder.
 
@@ -71,9 +71,10 @@ Presentation schedule below. If you know you will be absent, let your teacher kn
 
 | Date | Group |
 |------|-------|
-| Jan 12, 2016 | Rohan/Amin/Daniyal/Shariq's Group, Ronnie/Emily/Saeed's Group |
-| Jan 14, 2016 | Frederick/Kevin/Brandon/Felix's Group, Victor/Sally/Krish/Amin's Group |
-| Jan 15, 2016 | Rohan/Ali/Tarun/Taimoor's Group, James/Eric/Kyle's Group |
+| Jan 12, 2016 | Rohan/Amin/Daniyal/Shariq's Group |
+| Jan 14, 2016 | Frederick/Kevin/Brandon/Felix's Group, Ronnie/Emily/Saeed's Group |
+| Jan 15, 2016 | Rohan/Ali/Tarun/Taimoor's Group, Victor/Sally/Krish/Amin's Group |
+| Jan 19, 2016 | James/Eric/Kyle's Group |
 
 
 Rubric(s)
