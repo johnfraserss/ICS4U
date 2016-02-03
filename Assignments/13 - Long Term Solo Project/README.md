@@ -1,18 +1,18 @@
 Task(s)
 -------
 1. See this [mind map](http://www.mindomo.com/mindmap/sample-mind-map-70c8e37efebb43d7996fba8a79244903) for your tasks and criteria
-  * You can find a copy of your data (as well as who has which data) **[here](http://bit.ly/seidel-bigdata)**
+  * You can find a copy of the data **[here](http://bit.ly/seidel-bigdata)**
 
 Submission Item(s)
 ------------------
 * Your programming files
 * A one-page document containing both:
-  * An explanation of how your visualization works
+  * An explanation of how to use/run your visualization
   * A short reflection on the process
 
 Due Date(s)
 -----------
-All items must be in the IN folder by by Thursday, January 21st, 2016 at 3:00pm - **no exceptions**
+All items must be in the IN folder by by Wednesday, June 15th, 2016 at 4:00pm - **no exceptions**
 
 Rubric(s)
 ---------
