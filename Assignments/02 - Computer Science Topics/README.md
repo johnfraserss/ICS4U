@@ -49,4 +49,4 @@ Investigate and explain on _one_ of the following in theoretical computer scienc
 
 Due Date(s)
 -----------
-September 15th
+February 12th, 2016
