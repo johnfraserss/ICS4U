@@ -9,11 +9,11 @@ Cite your sources (APA or MLA format accepted).
 
 Submissables
 ------------
-Do **not** hand this work in - your teacher will mark this at your computer near the due date.
+Hand in this work to the IN drive.
 
 Due Date(s)
 ----------
-Marking will begin at the beginning of class on January 21st, 2016.
+Marking will begin at the beginning of class on February 12th, 2016.
 
 
 Rubric(s)
