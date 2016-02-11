@@ -39,7 +39,7 @@ a need for such a code, _or_
 the economy, _or_
 2. Investigate and explain an emerging technology
 
-Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition, 
+Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition
 
 ####Collaborative Research
 Report on _one_ of the areas of collaborative research between computer science and other fields: CS with Biology, CS with Geology, CS with Health Informatics, CS with Sociology, CS with Art, or CS with Climatology
@@ -49,4 +49,4 @@ Investigate and explain on _one_ of the following in theoretical computer scienc
 
 Due Date(s)
 -----------
-February 12th, 2016
+This work is due to the IN folder by February 16th, 2016 at 4pm.
