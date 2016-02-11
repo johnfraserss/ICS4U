@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. Choose a single career related to Computer Science.  In one paragraph, describe what is amazing about this career, and what is bad about this career.
+1. Choose a single career related to Computer Science.  In one paragraph, describe what is amazing about this career, and what is not so amazing about this career.
 2. Choose two programs at either the college or university level related to the career you chose in #1.  In one paragraph, compare and contrast the two programs.  Why would you pick one over the other?
 
 To complete the tasks above, you are to be concise and accurate with your information.  You are limited to 2 paragraphs (no more than 200 words per paragraph).
