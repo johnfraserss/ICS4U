@@ -8,7 +8,7 @@ subtract(float, float) //returns a float
 multiply(float, float) //returns a float
 divide(float, float) //returns a float
 maximum(float, float) //returns the larger of the two values as a float
-mininum(float, float) //returns the smallest of the two values as a float
+minimum(float, float) //returns the smallest of the two values as a float
 reverseArray(float []) //returns a reversed float [ ] array (can use ArrayLists if you prefer), program the algorithm yourself - do not use a built in "reverse()" function 
 ```
 
