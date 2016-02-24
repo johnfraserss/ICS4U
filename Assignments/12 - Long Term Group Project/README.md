@@ -36,7 +36,7 @@ Submissables
 ------------
 On April 18th, 2016 by 3pm you will:
 * Submit a product to the IN folder, even if it is "broken"
-  * You are **not** being marked on whether the piece of software works or not - ensure you read the rubrics
+  * You are **not** being marked on whether the piece of software works or not - ensure you **read the rubrics**
 * You must submit reports, diagrams, etc., as requested. These will be formal in nature.
 * See "Timelines and Due Dates" below for more information
 
@@ -53,9 +53,9 @@ Timeline(s) and Due Date(s)
   4. Software Testing Plan by end of class:
 	  * March 30th, 2016
 3. Product submission:
-  * April 15th, 2016 by 3pm
+  * April 18th, 2016 by 3pm
 4. Presentations will begin 
-  * April 18th, 2016
+  * April 19th, 2016
 5. Individual reflection of entire project/process:
   * **The school day after your presentation**
 
@@ -67,10 +67,10 @@ Presentation schedule below. If you know you will be absent, let your teacher kn
 
 | Date | Group |
 |------|-------|
-| Apr 18, 2016 | Group alpha |
-| Apr 19, 2016 | Group beta |
-| Apr 20, 2016 | Group gamma |
-| Apr 21, 2016 | Group delta |
+| Apr 19, 2016 | Kevin's Group |
+| Apr 20, 2016 | Ahmed's Group |
+| Apr 21, 2016 | Aditya's Group |
+| Apr 22, 2016 | Ainy's Group  |
 
 
 Rubric(s)
