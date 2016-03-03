@@ -20,7 +20,7 @@ Using your Inheritance/Polymorphism assignment, you are going to:
 
 Submission Item(s)
 ------------------
-Ensure your teacher sees your work after completion.  Assumed completion by March 11th.
+Ensure your teacher sees your work after completion.  Marking will begin on March 11th.
 
 Rubric(s)
 ---------
