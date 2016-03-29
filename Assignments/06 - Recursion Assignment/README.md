@@ -18,7 +18,7 @@ Using Eclipse and Java:
  
 There are areas that are commented to let you know what sections to fill in.
 
-_**Remember to properly document your code and use proper variable names**_
+_**Remember to properly document your code and use proper variable names.  You will also have to update the MainFile.java file to include testing for Palindrome, MaxPalindromes, and Mirrordromes as well**_
 
 
 Due Date(s) & Submission Item(s)
