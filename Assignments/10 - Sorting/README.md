@@ -9,7 +9,9 @@ Task(s)
 
 Due Date(s)
 -----------
-Ensure your teacher sees your work after completion.  Assumed completion by April 26th.
+Ensure your teacher sees your work after completion.  Assumed completion by April 25th.
+
+_**There will be a test on Sorting on Monday, April 25th, 2016.**_
 
 Rubric(s)
 ---------
