@@ -11,6 +11,8 @@ You **may** work on this task in pairs
 
 [Sorting Notes available here](http://prezi.com/_c5eer8nslnm/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
+**Note:** If you're having difficulties with downloading and using the fileGenerator Python file, there is a copy in the **OUT | SEIDEL | ICS4U** folder.
+
 Due Date(s)
 -----------
 Ensure your teacher sees your work after completion.  Assumed completion by April 25th.
