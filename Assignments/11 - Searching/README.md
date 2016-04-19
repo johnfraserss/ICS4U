@@ -12,6 +12,7 @@ You **may** work in pairs for this assignment.
 
 [Search Notes available here](http://prezi.com/kpgyneipmt8d/?utm_campaign=share&utm_medium=copy)
 
+**Note:** If you're having difficulties with downloading and using the fileGenerator Python file, there is a copy in the **OUT | SEIDEL | ICS4U** folder.
 
 Due Date(s)
 -----------
