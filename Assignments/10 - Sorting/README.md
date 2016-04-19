@@ -2,11 +2,12 @@ Task(s)
 -------
 You **may** work on this task in pairs
 
-1. Download the new set of code from the Github repository [related to Sorting](https://github.com/mrseidel-classes/ICS4U-Code/tree/master/Sorting/src/sortingpkg).
-2. You are to create a new Java Package called _Sorting_.
-3. Copy and paste the code from the repository into your **own package**.
-4. Fill in the blanks in the **MainFile.java** in the sorting package.
-5. It is suggested that you create multiple files using the included generator after completion to test your program.
+1. You will need at least 20MB free on your G drive to complete this assignment
+2. Download the new set of code from the Github repository [related to Sorting](https://github.com/mrseidel-classes/ICS4U-Code/tree/master/Sorting/src/sortingpkg).
+3. You are to create a new Java Package called _Sorting_.
+4. Copy and paste the code from the repository into your **own package**.
+5. Fill in the blanks in the **MainFile.java** in the sorting package.
+6. It is suggested that you create multiple files using the included generator after completion to test your program.
 
 [Sorting Notes available here](http://prezi.com/_c5eer8nslnm/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
