@@ -16,7 +16,7 @@ You **may** work in pairs for this assignment.
 
 Due Date(s)
 -----------
-Ensure your teacher sees your work after completion.  Assumed completion by April 29th, 2016.
+Ensure your teacher sees your work after completion.  Assumed completion by May 3rd, 2016.
 
 Rubric(s)
 ---------
