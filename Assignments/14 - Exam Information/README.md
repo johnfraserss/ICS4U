@@ -25,7 +25,7 @@ There is a copy of the exam's structure at **OUT | Seidel | ICS4U | Exam**
 
 ##Topics:
 You should have an in-depth understanding of:
-* Big-Oh analysis for Sorting (bubble, selection, insertion, quick, merge, heap) and Searching (linear, binary) algorithms
+* Big-O analysis for Sorting (bubble, selection, insertion, quick, merge, heap) and Searching (linear, binary) algorithms
 * UML diagramming (high level, and class diagrams)
 * Documentation Standards (Javadocs)
 * Project Management
