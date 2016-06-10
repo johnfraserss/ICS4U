@@ -38,3 +38,5 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
 
 Please complete this [survey regarding the culminating project](https://www.surveymonkey.com/r/Y8VBVNH).
+
+Please complete this [outtake survey](http://goo.gl/forms/tENY8LMiU3xkZ9Bx1)
