@@ -43,6 +43,7 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 
 ####Markdown resources
 * [Markdown Basics] (http://www.markdowntutorial.com/lesson/1/)
+* [Markdown Cheat Sheet] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Github Flavoured Markdown] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
 * [Typora] (https://www.typora.io/)
