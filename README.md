@@ -25,21 +25,20 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * Postsecondary Opportunities
 * Final Assessment (see course outline for more information on this topic)
 
-####Resources and Surveys
-* [Nature of Code - PDF Download Option] (http://natureofcode.com/) - remember you can choose $0
-* [Nature of Code - Online Book] (http://natureofcode.com/book/)
-* [Nature of Code - Code Examples Repo] (https://github.com/shiffman/The-Nature-of-Code-Examples)
-
 ####Processing Language and Resources
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
 * [Daniel Shiffman - Introductory Videos for Processing] (https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 * [Daniel Shiffman - Nature of Code Videos] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK)
+* [Nature of Code - PDF Download Option] (http://natureofcode.com/) - remember you can choose $0
+* [Nature of Code - Online Book] (http://natureofcode.com/book/)
+* [Nature of Code - Code Examples Repo] (https://github.com/shiffman/The-Nature-of-Code-Examples)
 
 ####p5.js Language and Resources
 * [p5js] (https://p5js.org/)
 * [Daniel Shiffman - p5.js tutorials] (https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd)
 * [Daniel Shiffman - p5.js Introductory Tutorials] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [Daniel Shiffman - p5.js Data Sources] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+* [Nature of Code (p5js) - Code Examples Repo] (https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/)
 
 ####Markdown resources
 * [Markdown Basics] (http://www.markdowntutorial.com/lesson/1/)
