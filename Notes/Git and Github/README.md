@@ -13,6 +13,9 @@ Once you have your files on the stage that you want to _commit_ to the repositor
 If you are working in teams, you will need to start using _branches_ and _pull requests_.
 We will cover those at a later time.
 
+[Git Download](https://git-scm.com/)  
+[Atom.io Download](https://atom.io/)
+
 #Git GUI and GitHub
 * [YouTube playlist for below](https://www.youtube.com/playlist?list=PLm9Cj7cTJrFsEesQ0Y4T0QOax2SHabPWK)
 * [Creating a repository](https://www.youtube.com/watch?v=ZB6jXZT3UlA)
