@@ -61,7 +61,7 @@ Timeline(s) and Due Date(s)
 
 ####The following dates will be put aside for this project (pending no interruptions):
 * September 29th
-* October 5th, 12th, 19th, 25th
+* October 5th, 12th, 20th, 25th
 * November 2nd, 10th, 16th, 24th
 * December 1st, 2nd
 
