@@ -52,11 +52,11 @@ Submission Item(s)
 ------------------
 A basic working program that demonstrates your knowledge of the functions given above (including documentation) - do __not__ submit to the IN folder.  Create a repository online to hold your programming assignments.  Within that repository, you can create separate folders for each of the topics.  For example:
 
-\| Home folder
-\| 
-\| \- /Assignment 1
-\| \- /Assignment 2 
-\| \- /etc.
+\| Home folder  
+\|   
+\| \- /Assignment 1  
+\| \- /Assignment 2   
+\| \- /etc.  
 
 As long as your assignment is committed to the repository by the due date, it will be considered on time.
 
@@ -70,5 +70,7 @@ Due Date(s)
 -------------
 To be uploaded to the repository by October 4th, 2016
 
-|A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |
+| | 0 | 1 | 2 | 3 | 4 |
+|---| --- | --- | --- | --- | --- |
+|A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |  
 |A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.)  | | | | | |
