@@ -31,8 +31,6 @@ Your presentation must follow these criteria:
 * Talk about whether there is more work to do beyond the deadline for this project.
 * Answer questions from the audience.
 
-
-
 Reflection Criteria
 -----------
 Create a _reflection.md_ document that answers the following questions, and post it to your GitHub repository:
@@ -41,8 +39,6 @@ Create a _reflection.md_ document that answers the following questions, and post
 3. What did you think of the process?
 4. What would you do differently if you had the opportunity?
 
-
-
 Submissables
 ------------
 * Log sheet
@@ -50,7 +46,6 @@ Submissables
 * Reflection
 
 All due by December 2nd, 2016.  The logsheet and reflection are due to Github, and the presentation is due to the IN folder.
-
 
 Timeline(s) and Due Date(s)
 ----------
@@ -64,7 +59,13 @@ Timeline(s) and Due Date(s)
 * Finalized log sheet by December 2nd, 2016 at 3pm.
 * Presentation files by December 2nd, 2016 at 3pm.
 
+####The following dates will be put aside for this project (pending no interruptions):
+* September 29th
+* October 5th, 12th, 19th, 25th
+* November 2nd, 10th, 16th, 24th
+* December 1st, 2nd
 
+It is assumed that on the dates above that you work on your 20Time project, and not the other programming related assignments.
 
 Presentation Schedule
 ----------------------
@@ -81,6 +82,7 @@ Presentations in other classes/locations will take place as scheduled by Mr. Sei
 | December 9th, 2016  | Arva       |
 | December 12th, 2016 | Kevin      |
 | December 13th, 2016 | Mr. Seidel |
+
 
 
 Rubric(s)
