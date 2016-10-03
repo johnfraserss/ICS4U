@@ -1,6 +1,6 @@
 Task(s)
 -------
-* Create a basic program that uses the **noise()** function to get something to move around the screen.
+* Create a basic program that uses the **noise()** function ([p5](https://p5js.org/examples/math-noise1d.html) | [Processing](https://processing.org/reference/noise_.html) | [Nature of Code](http://natureofcode.com/book/introduction/#intro_section6)) to get something to move around the screen.
 * You can build on a previously completed program to complete this assignment.
 * Document your program properly (using Javadocs or JSDocs)
 
