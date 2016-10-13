@@ -19,9 +19,9 @@ Include a _README.md_ file in the folder to explain what your program does.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by October 18th, 2016
+To be uploaded to the repository by ~~October 18th, 2016~~ October 20th, 2016 (to compensate for lost days)
 
-_**There will be an functions and objects test on October 19th in class to ensure understanding**_
+_**There will be an functions and objects test on ~~October 19th~~ October 21st, 2016 in class to ensure understanding**_
 
 Rubric(s)
 ---------
