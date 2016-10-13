@@ -54,7 +54,7 @@ Timeline(s) and Due Date(s)
   * Audience
   * Timeline
   * Resources required
-* Log sheet work, completed by 3pm every Friday between September 19th and December 2nd.
+* Log sheet work, completed by 3pm every ~~Friday~~ Saturday between September 19th and December 2nd.
 * Monthly review with teacher on progress (Oct 19, Nov 16)
 * Finalized log sheet by December 2nd, 2016 at 3pm.
 * Presentation files by December 2nd, 2016 at 3pm.
