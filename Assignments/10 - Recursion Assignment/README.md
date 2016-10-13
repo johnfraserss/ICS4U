@@ -23,9 +23,9 @@ Include a _README.md_ file in the folder to explain what your program does.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by October 27th, 2016
+To be uploaded to the repository by ~~October 27th, 2016~~ October 31st, 2016 (added 2 school days due to lost days)
 
-_**There will be a recursion test on October 28th in class to ensure understanding**_
+_**There will be a recursion test on ~~October 28th~~ November 1st, 2016 in class to ensure understanding**_
 
 Rubric(s)
 ---------
