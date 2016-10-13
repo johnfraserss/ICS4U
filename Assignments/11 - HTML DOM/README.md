@@ -1,29 +1,20 @@
 
 Task(s)
 -------
-1. To follow
-2. To follow
-3. Document your work properly.
-4. Resources below might prove useful.  
-
-* Resource 1
-* Resource 2
-
-
+1. Using your new found knowledge of the HTML DOM and P5.js you are to:
+  * Update a previous program to include arrays (if need be)
+  * Update that same program to take input from the HTML page (textboxes, etc.), and add the new item to the array
+  * Make use of a slider to modify some portion of your program
 
 Submission Item(s)
 ------------------
-Add this to your programming assignment repository in it's own folder.
-
-Include a _README.md_ file in the folder to explain what your program does.
-
+**Update** one of your previous programming assignments in the repository.  
+**Update** the _README.md_ file in the folder to explain what your program now does.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by _to be determined_
-
-_**There will be a test on _to be determined_ in class to ensure understanding**_ (might not be a tested topic)
-
+To be uploaded to the repository by November 5th, 2016 (this is a Saturday).  
+There will be **no** test for this portion of the course
 
 Rubric(s)
 ---------
@@ -31,8 +22,8 @@ _To follow_
 
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
-| Item 1                                   |      |      |      |      |      |
-| Item 2                                   |      |      |      |      |      |
+| A2.3: Update existing modular (broken down into classes and functions) code to enhance the functionality of the program |      |      |      |      |      |
+| A3.3: Create a function to add items to an array  |      |      |      |      |      |
 | A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.) |      |      |      |      |      |
 
 The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
