@@ -8,11 +8,13 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 
 * Markdown
 * Git and Github
-* HTML and CSS basics
+* HTML basics
 * Making the jump to JavaScript (using P5.JS)
-* Genius Hour
+* 20 Time Project
 * Functions (beyond void)
-* Objects, Inheritance, and Polymorphism
+* Callback Functions
+* Closure
+* Objects and Encapsulation
 * Recursion (graphical, and non-graphical)
 * Input/Output
 * Sorting and Searching
