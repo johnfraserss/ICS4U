@@ -5,6 +5,8 @@ Task(s)
   * Update a previous program to include arrays (if need be)
   * Update that same program to take input from the HTML page (textboxes, etc.), and add the new item to the array
   * Make use of a slider to modify some portion of your program
+  
+If you are doing this task in Processing, then you are to create a slider bar class manually and make use of it through your GUI
 
 Submission Item(s)
 ------------------
