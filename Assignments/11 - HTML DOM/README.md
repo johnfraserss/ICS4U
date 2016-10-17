@@ -18,7 +18,6 @@ There will be **no** test for this portion of the course
 
 Rubric(s)
 ---------
-_To follow_
 
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
