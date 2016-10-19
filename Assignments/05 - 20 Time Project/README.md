@@ -34,6 +34,7 @@ Your presentation must follow these criteria:
 Reflection Criteria
 -----------
 Create a _reflection.md_ document that answers the following questions, and post it to your GitHub repository:  
+
 1. What did you learn?  
 2. What more is there to learn, for you, in regards to the project?  
 3. What did you think of the process?  
