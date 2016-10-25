@@ -4,7 +4,12 @@ Task(s)
 2. Create a visualization of your analysis.
    * Sample visualizations can be seen [here][1], [here][2], [here][3], [here][4], [here][5], [here][6], and [here][7].
 3. Document your work properly.
-4. Resources below might prove useful.  
+4. Resources below might prove useful.
+  * [Project Gutenberg - Canada](http://www.gutenberg.ca/#catalogueA)
+  * [p5.js - loadStrings()](https://p5js.org/reference/#/p5/loadStrings)
+  * [p5.js - preload()](https://p5js.org/reference/#/p5/preload)
+  * [Processing - loadStrings()](https://processing.org/reference/loadStrings_.html)
+
 
 [1]: http://www.tibco.com/blog/wp-content/uploads/2014/04/color-bloom.jpg
 [2]: https://s-media-cache-ak0.pinimg.com/236x/cf/63/56/cf635663f03b34a4c74033f6d0d353e7.jpg
@@ -14,30 +19,21 @@ Task(s)
 [6]: http://static.decontextualize.com/snaps/wordcloud.png
 [7]: http://www.creativeapplications.net/wp-content/uploads/2010/01/fontane00-640x334.png
 
-* [Project Gutenberg - Canada](http://www.gutenberg.ca/#catalogueA)
-* [p5.js - loadStrings()](https://p5js.org/reference/#/p5/loadStrings)
-* [p5.js - preload()](https://p5js.org/reference/#/p5/preload)
-* [Processing - loadStrings()](https://processing.org/reference/loadStrings_.html)
-
-
 
 Submission Item(s)
 ------------------
-Add this to your programming assignment repository in it's own folder.
-
+Add this to your programming assignment repository in it's own folder.  
 Include a _README.md_ file in the folder to explain what your program does.
 
 
 Due Date(s)
 -------------
-To be uploaded to the repository by November 4th, 2016
+To be uploaded to the repository by November 4th, 2016  
 There will be **no** test for this portion of the course
 
 
 Rubric(s)
 ---------
-_To follow_
-
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | A1.2: Demonstrate an understanding of type conversions (e.g string-to-integer, string-to-float, character-to-integer, etc.)                                   |      |      |      |      |      |

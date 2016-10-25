@@ -8,25 +8,23 @@ Task(s)
   * How many ```.```, ```!```, and ```?``` characters exist.
 2. Document your work properly.
 3. Resources below might prove useful.  
-
-* [Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
-* [p5.js - Regex Videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
-* [Daniel Shiffman - p5.js Regex written](http://shiffman.net/a2z/regex/)
-* [Processing - match() for regex](https://processing.org/reference/match_.html)
-* [Processing - matchAll() for regex](https://processing.org/reference/matchAll_.html)
+  * [Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+  * [p5.js - Regex Videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+  * [Daniel Shiffman - p5.js Regex written](http://shiffman.net/a2z/regex/)
+  * [Processing - match() for regex](https://processing.org/reference/match_.html)
+  * [Processing - matchAll() for regex](https://processing.org/reference/matchAll_.html)
 
 
 
 Submission Item(s)
 ------------------
-Add this to your programming assignment repository in it's own folder.
-
+Add this to your programming assignment repository in it's own folder.  
 Include a _README.md_ file in the folder to explain what your program does.
 
 
 Due Date(s)
 -------------
-To be uploaded to the repository by November 14th, 2016
+To be uploaded to the repository by November 14th, 2016  
 There will be **no** test for this portion of the course
 
 Rubric(s)
