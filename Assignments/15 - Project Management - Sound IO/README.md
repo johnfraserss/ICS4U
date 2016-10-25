@@ -5,20 +5,18 @@ Task(s)
 1. Gather data from your Grade 1 student group (November 30th)
 2. Using the data gathered from your Grade 1 student group, create a visualization or video game that makes use of the sound data received.  Your programs will be given back to the Grade 1 students to interact with.  This means you will have to consider your target audience when you create your program so that they can understand the work you are doing (i.e. nothing abstract, not too distracting, etc.)
 3. Document your work properly.
-4. Resources below might prove useful.  
-
-* [p5.js - Sound Playlist (Daniel Shiffman)](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
-* [p5.js - Loading and Playing Sound](https://www.youtube.com/watch?v=Pn1g1wjxl_0)
-* [p5.js - Play and Pause Button](https://www.youtube.com/watch?v=YcezEwOXun4)
-* [p5.js - Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A)
-* [p5.js - Graphing Amplitude](https://www.youtube.com/watch?v=jEwAMgcCgOA)
-* [p5.js - FFT Frequency Analysis](https://www.youtube.com/watch?v=2O3nm0Nvbi4)
-* [Processing 3 - AudioIn (i.e microphone)](https://processing.org/reference/libraries/sound/AudioIn.html)
-* [Processing 3 - Sound Files](https://processing.org/reference/libraries/sound/SoundFile.html)
-* [Processing 3 - FFT](https://processing.org/reference/libraries/sound/FFT.html)
+4. Resources below might prove useful.
+  * [p5.js - Sound Playlist (Daniel Shiffman)](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+  * [p5.js - Loading and Playing Sound](https://www.youtube.com/watch?v=Pn1g1wjxl_0)
+  * [p5.js - Play and Pause Button](https://www.youtube.com/watch?v=YcezEwOXun4)
+  * [p5.js - Microphone Input](https://www.youtube.com/watch?v=q2IDNkUws-A)
+  * [p5.js - Graphing Amplitude](https://www.youtube.com/watch?v=jEwAMgcCgOA)
+  * [p5.js - FFT Frequency Analysis](https://www.youtube.com/watch?v=2O3nm0Nvbi4)
+  * [Processing 3 - AudioIn (i.e microphone)](https://processing.org/reference/libraries/sound/AudioIn.html)
+  * [Processing 3 - Sound Files](https://processing.org/reference/libraries/sound/SoundFile.html)
+  * [Processing 3 - FFT](https://processing.org/reference/libraries/sound/FFT.html)
 
 _Note_: For Processing 3, you will need to install the "Sound" library
-
 
 Submission Item(s)
 ------------------
@@ -29,7 +27,7 @@ Include a _REFLECTION.md_ file in the folder to talk about the project itself - 
 
 Due Date(s)
 -------------
-To be uploaded to the repository by December 16th, 2016
+To be uploaded to the repository by December 16th, 2016  
 There will be **no** test for this portion of the course
 
 Rubric(s)
