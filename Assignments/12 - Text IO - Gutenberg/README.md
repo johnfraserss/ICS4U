@@ -30,14 +30,12 @@ Include a _README.md_ file in the folder to explain what your program does.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by November 4th, 2016
+To be uploaded to the repository by November 4th, 2016  
 There will be **no** test for this portion of the course
 
 
 Rubric(s)
 ---------
-_To follow_
-
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | A1.2: Demonstrate an understanding of type conversions (e.g string-to-integer, string-to-float, character-to-integer, etc.)                                   |      |      |      |      |      |
