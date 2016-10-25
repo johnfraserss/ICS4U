@@ -6,19 +6,17 @@ Task(s)
   * Calculate how many pronouns, nouns (non-plural), and verbs exist.
   * Display this information visually on the screen.
 2. Document your work properly.
-3. Resources below might prove useful.  
-
-* [RiTa](https://rednoise.org/rita/)
-* [RiTa - Download (.js)](https://rednoise.org/rita/download.php)
-* [RiTa - Processing](https://github.com/dhowe/RiTa#in-processing)
+3. Resources below might prove useful.
+  * [RiTa](https://rednoise.org/rita/)
+  * [RiTa - Download (.js)](https://rednoise.org/rita/download.php)
+  * [RiTa - Processing](https://github.com/dhowe/RiTa#in-processing)
 
 
 
 Submission Item(s)
 ------------------
-Update your _Regular Expressions_ project, and upload a new commit.
+Update your _Regular Expressions_ project, and upload a new commit.  
 Include a _README.md_ file in the folder to explain what your program does.
-
 
 Due Date(s)
 -------------
