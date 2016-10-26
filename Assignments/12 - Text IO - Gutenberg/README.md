@@ -28,7 +28,7 @@ Include a _README.md_ file in the folder to explain what your program does.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by November 4th, 2016  
+To be uploaded to the repository by ~~November 4th, 2016~~ November 7th, 2016 (due date changed to be AFTER the HTML/DOM assignment)
 There will be **no** test for this portion of the course
 
 
