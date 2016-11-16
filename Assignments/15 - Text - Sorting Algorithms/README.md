@@ -22,8 +22,8 @@ Include a _ANALYSIS.md_ file to compare the length of time it takes for your own
 
 Due Date(s)
 -----------
-To be uploaded to the repository by _November 28th, 2016_  
-_**There will be a sorting test on _November 29th, 2016_ in class to ensure understanding**_
+To be uploaded to the repository by _November 25th, 2016_  
+_**There will be a sorting test on November 28th, 2016 in class to ensure understanding**_
 
 Rubric(s)
 ---------
