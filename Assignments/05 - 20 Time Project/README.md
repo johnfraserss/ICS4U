@@ -80,8 +80,8 @@ Presentations in other classes/locations will take place as scheduled by Mr. Sei
 | December 6th, 2016  | Nikhil     |
 | December 7th, 2016  | Omar       |
 | December 8th, 2016  | Jingshu    |
-| December 9th, 2016  | Arva       |
-| December 12th, 2016 | Kevin      |
+| December 9th, 2016  | Kevin      |
+| December 12th, 2016 | Arva       |
 | December 13th, 2016 | Mr. Seidel |
 
 
