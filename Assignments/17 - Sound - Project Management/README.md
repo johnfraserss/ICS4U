@@ -32,7 +32,6 @@ There will be **no** test for this portion of the course
 
 Rubric(s)
 ---------
-
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | B1.2: Develop the software product according to the project plan (e.g. ensure that the software meets end user needs, function as intended, etc.) |      |      |      |      |      |
