@@ -30,6 +30,7 @@ Rubric(s)
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
+|A3.4: Create the bubbleSort and insertionSort functions to sort data in an array  | | | | | |
 |C2.3: Compare the efficiency of sorting algorithms using run times and computational complexity analysis  | | | | | |
 |A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.)  | | | | | |
 
