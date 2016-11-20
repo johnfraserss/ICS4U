@@ -1,37 +1,35 @@
+ICS4U Exam Information
+---
+**_Under construction_**
 
+Your teacher will be available for the few days prior to the exam period on a consultancy basis. You are to study on your own and between peers. If you still require help, consult your teacher. Your teacher will not answer questions about anything in the “Exam Information” section below.
 
+Exam Information
+---
 
+1. The examination will be open book. This means you will have access to any hand-written notes you bring in, and any printed materials you bring in to the exam with you.
 
-## Task(s)
+2. You will **not** have access to your peers, any electronic devices, or internet access for this exam.
 
-1. To follow
-2. To follow
-3. Document your work properly.
-4. Resources below might prove useful.  
+|Knowledge|Thinking|Communication|Application|
+|---------|--------|-------------|-----------|
+| 14.5%   |  28.5% |    28.5%    |   28.5%   |
 
-- Resource 1
-- Resource 2
+| Type of Question | Number of questions | Category |
+|------------------|---------------------| -------- |
+| ?  | 		?	 | 	?   |
+| ?  | 		?	 | 	?   |
+| ?  | 		?	 | 	?   |
+| ?  | 		?	 | 	?   |
+| ?  | 		?  	 | 	?   |
 
-## Submission Item(s)
+There is a copy of the exam's structure **will be** at **OUT | Seidel | ICS4U | Exam**
 
-Add this to your programming assignment repository in it's own folder.
-
-Include a _README.md_ file in the folder to explain what your program does.
-
-## Due Date(s)
-
-To be uploaded to the repository by _to be determined_
-
-_**There will be a test on _to be determined_ in class to ensure understanding**_ (might not be a tested topic)
-
-## Rubric(s)
-
-_To follow_
-
-|                                          | 0    | 1    | 2    | 3    | 4    |
-| ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
-| Item 1                                   |      |      |      |      |      |
-| Item 2                                   |      |      |      |      |      |
-| A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.) |      |      |      |      |      |
-
-The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
+##Topics:
+You should have an in-depth understanding of:
+* Markdown
+* Git and GitHub
+* Documentation Standards (Javadocs/JSDocs)
+* Regular Expressions
+* Sorting Algorithms
+* Searching Algorithms
