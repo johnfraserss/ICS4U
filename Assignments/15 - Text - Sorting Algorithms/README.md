@@ -12,6 +12,7 @@ Task(s)
 6. Resources below might prove useful.  
   * [Bubble Sort (C++/Java)](http://cathyatseneca.github.io/DSAnim/web/bubble.html)
   * [Insertion Sort (C++/Java)](http://cathyatseneca.github.io/DSAnim/web/insertion.html)
+  * [Sorting Presentation](https://prezi.com/_c5eer8nslnm/sorting/)
 
 Submission Item(s)
 ------------------
