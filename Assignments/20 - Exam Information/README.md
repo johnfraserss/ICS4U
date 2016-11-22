@@ -1,6 +1,7 @@
 ICS4U Exam Information
 ---
-**_Under construction_**
+
+_Under Construction_ 
 
 Your teacher will be available for the few days prior to the exam period on a consultancy basis. You are to study on your own and between peers. If you still require help, consult your teacher. Your teacher will not answer questions about anything in the “Exam Information” section below.
 
@@ -17,18 +18,16 @@ Exam Information
 
 | Type of Question | Number of questions | Category |
 |------------------|---------------------| -------- |
-| ?  | 		?	 | 	?   |
-| ?  | 		?	 | 	?   |
-| ?  | 		?	 | 	?   |
-| ?  | 		?	 | 	?   |
-| ?  | 		?  	 | 	?   |
+| Given an input, what is the output? | 	8	 | 	K, T |
+| Explain these things  | 		3	 | 	C   |
+| Create javadocs/JSDocs  | 		1	 | 	A   |
 
 There is a copy of the exam's structure **will be** at **OUT | Seidel | ICS4U | Exam**
 
 ##Topics:
 You should have an in-depth understanding of:
 * Markdown
-* Git and GitHub
+* Git/GitHub
 * Documentation Standards (Javadocs/JSDocs)
 * Regular Expressions
 * Sorting Algorithms
