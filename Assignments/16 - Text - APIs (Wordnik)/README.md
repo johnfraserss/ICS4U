@@ -2,10 +2,9 @@
 1. [Sign up for a Wordnik account](https://www.wordnik.com/signup)
 2. [Apply for an API key with Wordnik](http://developer.wordnik.com/) (should be done ahead of time, takes a few days to get the key)
 3. Using Wordnik, retrieve definitions, related words, and phrases on 10 words of your choice (school appropriate).  Once you retrieve the words, create a visualization on either the individual characters, or on a numeric value (your choice how to calculate)
-4. You can use  [loadJSONObject()](https://processing.org/reference/loadJSONObject_.html) from Processing, or [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) from P5.js to read the data received from the API
+4. You can use  [loadJSONArray()](https://processing.org/reference/loadJSONArray_.html) from Processing, or [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) from P5.js to read the data received from the API
 5. Resource(s) below might prove useful  
-
-- [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
+  - [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
 
 ## Submission Item(s)
 Add this to your programming assignment repository in it's own folder.  
