@@ -55,7 +55,7 @@ Timeline(s) and Due Date(s)
   * Audience
   * Timeline
   * Resources required
-* Log sheet work, completed by 3pm every ~~Friday~~ Saturday between September 19th and December 2nd.
+* Log sheet work, completed by 3pm every Saturday between September 19th and December 2nd.
 * Monthly review with teacher on progress (Oct 19, Nov 16)
 * Finalized log sheet by December 2nd, 2016 at 3pm.
 * Presentation files by December 2nd, 2016 at 3pm.
@@ -72,8 +72,6 @@ Presentation Schedule
 ----------------------
 In-class presentations begin December 5th, 2016. There will be only one presentation a day to allow everyone to continue working on their other projects.
 
-Presentations in other classes/locations will take place as scheduled by Mr. Seidel.  More information to follow.
-
 | Date                | Presenter  |
 | ------------------- | ---------- |
 | December 5th, 2016  | Matteo     |
@@ -81,8 +79,8 @@ Presentations in other classes/locations will take place as scheduled by Mr. Sei
 | December 7th, 2016  | Omar       |
 | December 8th, 2016  | Jingshu    |
 | December 9th, 2016  | Kevin      |
-| December 12th, 2016 | Arva       |
-| December 13th, 2016 | Mr. Seidel |
+| December 13th, 2016 | Arva       |
+| December 14th, 2016 | Mr. Seidel |
 
 
 
