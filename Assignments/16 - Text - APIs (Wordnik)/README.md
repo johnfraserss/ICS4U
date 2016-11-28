@@ -4,8 +4,7 @@
 3. Using Wordnik, retrieve definitions, related words, and phrases on 10 words of your choice (school appropriate).  Once you retrieve the words, create a visualization on either the individual characters, or on a numeric value (your choice how to calculate)
 4. You can use  [loadJSONObject()](https://processing.org/reference/loadJSONObject_.html) from Processing, or [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) from P5.js to read the data received from the API
 5. Resource(s) below might prove useful  
-
-- [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
+  - [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
 
 ## Submission Item(s)
 Add this to your programming assignment repository in it's own folder.  
