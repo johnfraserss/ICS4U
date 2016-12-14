@@ -12,22 +12,14 @@ Exam Information
 
 2. You will **not** have access to your peers, any electronic devices, or internet access for this exam.
 
-|Knowledge|Thinking|Communication|Application|
-|---------|--------|-------------|-----------|
-| 14.5%   |  28.5% |    28.5%    |   28.5%   |
-
-| Type of Question | Number of questions | Category |
-|------------------|---------------------| -------- |
-| Given an input, what is the output? | 	8	 | 	K, T |
-| Explain these things  | 		3	 | 	C   |
-| Create javadocs/JSDocs  | 		1	 | 	A   |
-
-There is a copy of the exam's structure **will be** at **OUT | Seidel | ICS4U | Exam**
+There is a copy of the exam's structure at **OUT | Seidel | ICS4U | Exam**
 
 ##Topics:
 You should have an in-depth understanding of:
 * Markdown
 * Git/GitHub
+* 20Time
+* Perlin Noise vs. Randomness
 * Documentation Standards (Javadocs/JSDocs)
 * Regular Expressions
 * Sorting Algorithms
