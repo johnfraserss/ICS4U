@@ -1,8 +1,5 @@
 ICS4U Exam Information
 ---
-
-_Under Construction_ 
-
 Your teacher will be available for the few days prior to the exam period on a consultancy basis. You are to study on your own and between peers. If you still require help, consult your teacher. Your teacher will not answer questions about anything in the “Exam Information” section below.
 
 Exam Information
