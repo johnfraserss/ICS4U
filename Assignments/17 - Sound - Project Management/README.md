@@ -3,7 +3,7 @@
 Task(s)
 -------
 1. Gather data from your Grade 1 student group (November 30th)
-2. Using the data gathered from your Grade 1 student group, create a visualization or video game that makes use of the sound data received.  Your programs will be given back to the Grade 1 students to interact with.  This means you will have to consider your target audience when you create your program so that they can understand the work you are doing (i.e. nothing abstract, not too distracting, etc.)
+2. Using the data gathered from your Grade 1 student group, create a visualization or video game that makes use of the sound data received (not just hit play/use as background sounds).  Your programs will be given back to the Grade 1 students to interact with.  This means you will have to consider your target audience when you create your program so that they can understand the work you are doing (i.e. nothing abstract, not too distracting, etc.)
 3. Document your work properly.
 4. Create a user manual (written or in-program), or a video tutorial on how to use your program.
 5. Resources below might prove useful.
