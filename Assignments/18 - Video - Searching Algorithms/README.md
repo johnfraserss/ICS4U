@@ -2,7 +2,7 @@ Task(s)
 -------
 1. Attach a webcam to your computer.
 2. Using the ```pixels[]``` array, store the data locally in an array of your own.
-3. Sort your data using the built-in sort method (much faster than bubbleSort() or insertionSort()).
+3. Sort your data using a sort that is ```n*log(n)``` in speed, sort the data (examples include: quick sort, merge sort, etc.)
 4. Using the sorted data, create a program that uses a binary search algorithm to find a pixel of a particular colour.
 5. Using the **unsorted** data, create a program that uses a linear search algorithm to find something on the screen, and then
 have the information change on the screen.  As an example, you could find all the red pixels and change them to black,
