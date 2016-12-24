@@ -13,7 +13,7 @@ Complete this work using your newly found Markdown knowledge.  Your work must be
 
 Due Date(s)
 ----------
-Hand in your work by 3pm on September 9th, 2016 to the IN drive.
+Hand in your .md file to the IN drive by February 10th at 11:59pm.
 
 
 Rubric(s)

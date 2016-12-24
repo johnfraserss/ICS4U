@@ -1,11 +1,13 @@
 Task(s)
 -------
 ###Git related
-1. In Git GUI create a new repository named "preprogramming" within your _G:\\git_ folder.
-2. Go to GitHub, and create a new public repository with the same name, without including a README.md file.
-3. In Git GUI, connect your GitHub repo with your local copy.
-4. Once connected, copy your previous 3 assignments into the "preprogramming" folder, then _add_, _commit_, and then _push_ them to the GitHub repository.
-5. After adding and committing your previous assignments, create a new README.md file, and update the contents of that file in order to explain the purpose of this initial repository.
+1. Go through all of your previous assignments and remove your last name from all files.
+2. Create a folder in your G drive that will hold all of your Computer Science projects.
+3. In Git GUI create a new repository named "grade12-cs" (or something similar) within your _G:\\git_ folder.
+4. Go to GitHub, and create a new public repository with the same name, **without** a _README.md_ file.
+5. In Git GUI, connect your GitHub repo with your local copy.
+6. Once connected, copy your previous 3 assignments into the "grade12-cs" folder, then _add_, _commit_, and then _push_ them to the GitHub repository.
+7. After adding and committing your previous assignments, create a new README.md file, and update the contents of that file in order to explain the purpose of this initial repository.
   * Following creation, _add_, _commit_, and _push_ this new README.md file to the GitHub repository.
 
 ###Quick program and practice with Git/GitHub
@@ -18,7 +20,7 @@ As above in the tasks section, you are to submit your work to your GitHub reposi
 
 Due Date(s)
 -----------
-All work is to be uploaded to GitHub by September 19th, 2016.
+All work is to be uploaded to GitHub on February 18th, 2016 by 11:59pm.
 
 Rubric
 ------

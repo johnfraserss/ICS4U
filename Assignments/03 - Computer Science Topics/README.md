@@ -53,4 +53,16 @@ Format your work using Markdown (not Word). Your work must be submitted in a .md
 
 Due Date(s)
 -----------
-This work is due to the IN folder by September 16th, 2016 at 3pm.
+This work is due to the IN folder by February 17th, 2017 at 11:59pm.
+
+Rubric(s)
+---------
+This rubric is out of a total of 20
+
+| | 0 | 1 | 2 | 3 | 4 |
+|---| --- | --- | --- | --- | --- |
+|**Enrivonment**: assess strategies and initiatives that promote environmental stewardship with respect to the use of computers and related technologies | | | | | |
+|**Ethics**: analyse ethical issues and propose strategies to encourage ethical practices related to the use of computers; | | | | | |
+|**Emerging Tech**: analyse the impact of emerging computer technologies on society and the economy | | | | | |
+|**Collaborative Research**: report on some areas of collaborative research between computer science and other fields on the basis of information found in industry publications  | | | | | |
+|**Theoretical CS**: investigate a topic in theoretical computer science  | | | | | |
