@@ -72,7 +72,7 @@ The multiple enemy types must have different behaviours to demonstrate.  For exa
 ### Option 10 (Algorithmic Botany)
 Using the [Algorithmic Botary](http://algorithmicbotany.org/) website, which is part of the Department of Computer Science at the University of Calgary, choose a paper/publication (excluding those already chosen and delivered by Daniel Shiffman such as [this](https://www.youtube.com/watch?v=KWoJgHFYWxY)).  
 
-Once you have chosen a video, create a program that visualizes the 
+Once you have chosen a paper/publication, create a program that shows the work of the paper/publication in action. 
 
 
 ### Option 11 (APIs)
