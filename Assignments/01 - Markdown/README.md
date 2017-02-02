@@ -20,4 +20,4 @@ Hand in a .md file with your name as the file name to the IN drive.
 
 Due Date(s)
 -----------
-Due September 8th by 3pm
+Due February 10th by 11:59pm
