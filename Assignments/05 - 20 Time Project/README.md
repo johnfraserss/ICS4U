@@ -11,7 +11,6 @@ Project Criteria
 * Choose something you are passionate about.
 * This project has to be new to you, and is something you won't get to do in another class (or this class).
 * Decide what you will produce/showcase.
-* Find an expert or an adult mentor.
 * Must be shared with the world by the end.
 * You must log your learning.  I suggest using a **20time** Git repo that you update on a regular basis (minimum once a week).  Check out he TEMPLATE.md above.
 * Failure is an option, the key is to learn from your mistakes!
