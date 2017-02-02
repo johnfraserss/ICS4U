@@ -6,7 +6,6 @@ Task(s)
 3. Complete a reflection of the whole process.
 
 
-
 Project Criteria
 --------
 * Choose something you are passionate about.
@@ -14,7 +13,7 @@ Project Criteria
 * Decide what you will produce/showcase.
 * Find an expert or an adult mentor.
 * Must be shared with the world by the end.
-* You must log your learning.  I suggest using a **geniushour** or **20time** Git repo that you update on a regular basis (minimum once a week).
+* You must log your learning.  I suggest using a **20time** Git repo that you update on a regular basis (minimum once a week).  Check out he TEMPLATE.md above.
 * Failure is an option, the key is to learn from your mistakes!
 
 Looking for some ideas? [Check this video out.](https://www.youtube.com/watch?v=xupHuEk8p7g)
@@ -25,7 +24,7 @@ Presentation Criteria
 Create a presentation that will be shared with your classmates, as well as other students in the building.
 
 Your presentation must follow these criteria:
-* Looking for an _approximately_ 7-10 minute presentation.
+* Looking for an _approximately_ 6-10 minute presentation.
 * Demonstrate your project in its current state.
 * Talk about all difficulties and challenges related to this project.
 * Talk about whether there is more work to do beyond the deadline for this project.
@@ -46,42 +45,51 @@ Submissables
 * Presentation
 * Reflection
 
-All due by December 2nd, 2016.  The logsheet and reflection are due to Github, and the presentation is due to the IN folder.
+**All** due to the GitHub repository by Saturday, May 6th, 2017.
 
 Timeline(s) and Due Date(s)
 ----------
-* Proposal/pitch including:
+* Proposal/pitch including (by Feb 16th, 2017):
   * Purpose
   * Audience
   * Timeline
   * Resources required
-* Log sheet work, completed by 3pm every Saturday between September 19th and December 2nd.
-* Monthly review with teacher on progress (Oct 19, Nov 16)
-* Finalized log sheet by December 2nd, 2016 at 3pm.
-* Presentation files by December 2nd, 2016 at 3pm.
+* Log sheet work, completed by 11:59pm every Saturday between February 12th and May 6th.
+* Monthly review with teacher on progress (March 8, April 12th)
+* Finalized log sheet by May 6th, 2017 at 11:59pm.
+* Presentation files by May 6th, 2017 at 11:59pm.
 
 ####The following dates will be put aside for this project (pending no interruptions):
-* September 29th
-* October 5th, 12th, 20th, 25th
-* November 2nd, 10th, 16th, 24th
-* December 1st, 2nd
+* February 17th, 23rd
+* March 1st, 8th, 22nd, 29th
+* April 6th, 13th, 20th, 27th
+* May 3rd, 4th, 5th
 
 It is assumed that on the dates above that you work on your 20Time project, and not the other programming related assignments.
 
 Presentation Schedule
 ----------------------
-In-class presentations begin December 5th, 2016. There will be only one presentation a day to allow everyone to continue working on their other projects.
+In-class presentations begin May 8th, 2017. There will be up to two presentations a day to allow everyone to continue working on their other projects.
 
-| Date                | Presenter  |
+| Date                | Presenter(s)  |
 | ------------------- | ---------- |
-| December 5th, 2016  | Matteo     |
-| December 6th, 2016  | Nikhil     |
-| December 7th, 2016  | Omar       |
-| December 8th, 2016  | Jingshu    |
-| December 9th, 2016  | Kevin      |
-| December 13th, 2016 | Arva       |
-| December 14th, 2016 | Mr. Seidel |
-
+| May 8th, 2017  |      |
+| May 9th, 2017  |      |
+| May 10th, 2017  |      |
+| May 11th, 2017  |      |
+| May 12th, 2017  |      |
+| May 15th, 2017  |      |
+| May 16th, 2017  |      |
+| May 17th, 2017  |      |
+| May 18th, 2017  |      |
+| May 19th, 2017  |      |
+| May 23rd, 2017  |      |
+| May 24th, 2017  |      |
+| May 25th, 2017  |      |
+| May 26th, 2017  |      |
+| May 29th, 2017  |      |
+| May 30th, 2017  |      |
+| May 31st, 2017  |      |
 
 
 Rubric(s)
@@ -89,8 +97,9 @@ Rubric(s)
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|B1.4 - use appropriate project management tool(s) to manage project components | | | | | |
+|B1.1 - create a project plan by producing a scope document to determine purpose, audience, timeline, resources required (plan)  | | | | | |
+|B1.4 - use appropriate project management tool(s) to manage project components (GitHub, calendar, etc.) | | | | | |
 |B1.6 - review the project and prepare report (reflection)  | | | | | |
-|B2.2 - demonstrate the ability to meet project goals and deadlines (log sheets, and project)  | | | | | |
+|B2.2 - demonstrate the ability to meet project goals and deadlines (plan, log sheets, project, reflection, presentation, etc.)  | | | | | |
 |B2.3 - reflect on, and assess, individual progress (reflection and log sheets)  | | | | | |
 |D4.4 - evaluate their own development of work habits that are important for success (reflection)  | | | | | |
