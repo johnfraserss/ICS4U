@@ -1,8 +1,6 @@
 Task(s)
 -------
-Complete a research report on each of the topics below.  Submit a Markdown file that has topics with headings, and formatted paragraphs below it.  You should have 5 paragraph-equivalent amounts of text total.
-
-Do **_not_** write a lot for each section, a single paragraph is sufficient for each topic.  
+Answer the questions below on the 5 topics given. Submit a Markdown file that has the topics as headings, and formatted paragraphs below it.  Each section will give you your word/character count minimum/maximum.
 
 Topics
 ------
@@ -14,42 +12,28 @@ Topics
 
 ###Topic Break-down
 --------
-####Environmental
-Answer _one_ of the following:
+####Environmental (Min: 200 words, Max: 300 words)
+How can _you_ use computers and related technology _today_ to reduce the environmental impact of yourself, your home, your community, and even possibly the world.  Ensure that you choose actionable items that you can _actually_ start doing, other than the basic of things like _turn off lights_, _recycle more_, _use less paper_, etc.
 
-1. Outline a strategy to reduce the impact of computers and related technology on the 
-environment and on human health, _or_
+####Ethics (Min: 70 characters, Max: 100 characters, including spaces.)
+Create a headline for a newspaper/blog/news-related site that would entice people to read an article where the content was about strategies to encourage ethical computing practices in your community, and in the workplace.
 
-2. Report on governmental and community initiatives that:
-  1. Encourage environmental stewardship
-  2. Promote programs and practices that support sustainability
+####Emerging Technology (Min: 100 words, Max: 200 words)
+Explain the impact of one emerging technology on members of society around the world, and on 
+the economy.  Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition
 
-####Ethics
-Answer _one_ of the following:
+####Collaborative Research (Min: 100 words, Max: 200 words)
+Report on _one_ of the areas of collaborative research between computer science and other fields: CS with Biology (excluding nanomedicine), CS with Geology (excluding GPS), CS with Health Informatics, CS with Sociology, CS with Art (excluding animation), or CS with Climatology
 
-1. Analyze an ethical issue related to the use of computers, _or_
+####Theoretical Computer Science (Min: 125 words, Max: 150 words).
+Investigate and explain on _one_ of the following in theoretical computer science areas: Computability Theory, Automata Theory, Image Processing, Natural Systems Simulations, Neural Networking in Computers.
 
-2. Describe the essential elements of a code of ethics for computer programmers and why there is 
-a need for such a code, _or_
-
-3. Outline strategies to encourage ethical computing practices at home, at school and at work
-
-####Emerging Technology
-1. Explain the impact of one emerging technology on members of society around the world, and on 
-the economy, _or_
-2. Investigate and explain an emerging technology
-
-Choose from _one_ of the following options: Embodied Avatars, Fabric-embedded screens, Computational Photography, Artificial Photosynthesis, Vertical Farming, Programmable Matter, Arcologies, Telepresence, Exocortex, Nanomedicine, Machine-augmented Cognition
-
-####Collaborative Research
-Report on _one_ of the areas of collaborative research between computer science and other fields: CS with Biology, CS with Geology, CS with Health Informatics, CS with Sociology, CS with Art (excluding animation), or CS with Climatology
-
-####Theoretical Computer Science
-Investigate and explain on _one_ of the following in theoretical computer science areas: Graph Theory, Logic, Computability Theory, Automata Theory, Image Processing, Natural Systems Simulations
+Cite sources at the end.  Source, titles, and your name will **not** count towards your word/character limits.
 
 Submissables
 ------------
-Format your work using Markdown (not Word). Your work must be submitted in a .md file format.
+Format your work using Markdown (not Word). Your work must be submitted in a .md file format.  
+Too few words/characters, and that section will not be read.  Too many words/characters, and all extra words will be ignored.
 
 Due Date(s)
 -----------
@@ -61,8 +45,8 @@ This rubric is out of a total of 20
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|**Enrivonment**: assess strategies and initiatives that promote environmental stewardship with respect to the use of computers and related technologies | | | | | |
-|**Ethics**: analyse ethical issues and propose strategies to encourage ethical practices related to the use of computers; | | | | | |
-|**Emerging Tech**: analyse the impact of emerging computer technologies on society and the economy | | | | | |
-|**Collaborative Research**: report on some areas of collaborative research between computer science and other fields on the basis of information found in industry publications  | | | | | |
-|**Theoretical CS**: investigate a topic in theoretical computer science  | | | | | |
+|**Environment**: Creativity and actionability of the information given | | | | | |
+|**Ethics**: Creativity and title draw that would pull in someone to read the article.  The title will be shown to an independent set of people, and their opinion will be used to test the ability of your title to draw in the audience. | | | | | |
+|**Emerging Tech**: Analyse the impact of emerging computer technologies (list given, choose 1) on society and the economy going forward. Ensure that you speak about societal costs/gains, as well as economic | | | | | |
+|**Collaborative Research**: Report on an area of collaborative research between computer science and other fields (list given) on the basis of information found in industry publications. Ensure your sources are industry publications.  | | | | | |
+|**Theoretical CS**: Demonstrate knowledge of the chosen topic in theoretical computer science, rather than copy/pasting/rewording of online documentation  | | | | | |
