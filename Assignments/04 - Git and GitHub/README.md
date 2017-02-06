@@ -1,3 +1,8 @@
+#Instructions will change for this assignment - please do not complete until further notice.
+Please work on [Assignment 05 - 20 Time](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/05%20-%2020%20Time%20Project) first to figure out your topic.
+
+
+
 Task(s)
 -------
 ###Git related
