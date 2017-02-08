@@ -45,6 +45,7 @@ Submissables
 * Reflection
 
 **All** due to the GitHub repository by Saturday, May 6th, 2017.
+GitHub [repo invitation link](https://classroom.github.com/assignment-invitations/387e6ad6238dea2f35ddb03008581a04).  Don't click this until you have completed the work with the _[04 - Git and GitHub](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04%20-%20Git%20and%20GitHub)_ assignment
 
 Timeline(s) and Due Date(s)
 ----------
@@ -59,7 +60,7 @@ Timeline(s) and Due Date(s)
 * Presentation files by May 6th, 2017 at 11:59pm.
 
 ####The following dates will be put aside for this project (pending no interruptions):
-* February 17th, 23rd
+* February 16th, 23rd
 * March 1st, 8th, 22nd, 29th
 * April 6th, 13th, 20th, 27th
 * May 3rd, 4th, 5th
