@@ -5,9 +5,17 @@ Please work on [Assignment 05 - 20 Time](https://github.com/mrseidel-classes/ICS
 
 Task(s)
 -------
-###Git related
+You will need the have [this]() (coming soon) agreement signed in order to complete this task.  If this agreement is not signed, I will not accept any work posted to an online repository.
+
+###Git Related
 1. Go through all of your previous assignments and remove your last name from all files.
-2. Create a folder in your G drive that will hold all of your Computer Science projects.
+2. Go to [Github.com](http://www.github.com/) and create an account.
+3. Once you have an account, click on [this link](https://classroom.github.com/assignment-invitations/e8c3946ba6decb6d704632aa2b0d4aa8) in order to add a repository to your account automatically.
+4. You will be using this repository to save all of your work to.
+5. Clone the repository to create a local copy on your G drive.
+6. Any time you make changes to your work, you should _Push_ all of your work to the online repository on at least a weekly basis.  A good habit to get into is to post them at the end of every class.
+7. See the [videos](https://github.com/mrseidel-classes/ICS4U/tree/master/Notes/01%20-%20Git%20and%20Github) (coming soon - need updates) on how to use Git with GitHub properly.
+
 3. In Git GUI create a new repository named "grade12-cs" (or something similar) within your _G:\\git_ folder.
 4. Go to GitHub, and create a new public repository with the same name, **without** a _README.md_ file.
 5. In Git GUI, connect your GitHub repo with your local copy.
