@@ -24,7 +24,7 @@ As above in the tasks section, you are to submit your work to your GitHub reposi
 
 Due Date(s)
 -----------
-All work is to be uploaded to GitHub on February 18th, 2016 by 11:59pm.
+All work is to be uploaded to GitHub on February 22nd, 2017 by 11:59pm.
 
 Rubric
 ------
