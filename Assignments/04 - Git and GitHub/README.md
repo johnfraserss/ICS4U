@@ -1,6 +1,6 @@
 Task(s)
 -------
-You will need the have [this](https://form.jotform.com/70385596331259) (coming soon) agreement signed in order to complete this task.  If this agreement is not signed, I will not accept any work posted to an online repository.
+You will need the have [this](https://form.jotform.com/70385596331259) agreement signed in order to complete this task.  If this agreement is not signed, I will not accept any work posted to an online repository.
 
 ###Git Related
 1. Go through all of your previous assignments and remove your last name from all files.
