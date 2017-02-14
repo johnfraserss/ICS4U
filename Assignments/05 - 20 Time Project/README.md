@@ -49,7 +49,7 @@ GitHub [repo invitation link](https://classroom.github.com/assignment-invitation
 
 Timeline(s) and Due Date(s)
 ----------
-* Proposal/pitch including (by Feb 16th, 2017):
+* Proposal/pitch including (by Feb 18th, 2017):
   * Purpose
   * Audience
   * Timeline
