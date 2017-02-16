@@ -73,23 +73,26 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 
 | Date                | Presenter(s)  |
 | ------------------- | ---------- |
-| May 8th, 2017  |      |
-| May 9th, 2017  |      |
-| May 10th, 2017  |      |
-| May 11th, 2017  |      |
-| May 12th, 2017  |      |
-| May 15th, 2017  |      |
-| May 16th, 2017  |      |
-| May 17th, 2017  |      |
-| May 18th, 2017  |      |
-| May 19th, 2017  |      |
-| May 23rd, 2017  |      |
-| May 24th, 2017  |      |
-| May 25th, 2017  |      |
-| May 26th, 2017  |      |
-| May 29th, 2017  |      |
-| May 30th, 2017  |      |
-| May 31st, 2017  |      |
+| May 8th, 2017  | Arshad, Kevin  |
+| May 9th, 2017  | Jyotiraditya, Kasun |
+| May 10th, 2017  | Steven, Ashar |
+| May 11th, 2017  | Obayed, Danny |
+| May 12th, 2017  | Xin Yu, David |
+| May 15th, 2017  | Wen Qin, Russell |
+| May 16th, 2017  | QianQian, Mohamad |
+| May 17th, 2017  | Xiao, Jason |
+| May 18th, 2017  | Fatima, Chris |
+| May 19th, 2017  | Roy, Noor |
+| May 23rd, 2017  | Navya, Wayne |
+| May 24th, 2017  | Sakina, Brayden |
+| May 25th, 2017  | Bhavya, William |
+| May 26th, 2017  | Emad, Hassan |
+| May 29th, 2017  | Mr. Seidel |
+| May 30th, 2017  | < date saved if needed >  |
+
+Presentation order was chosen randomly by placing all names (excluding mine) in a list and running them through [this](https://www.random.org/lists/) website 5 times.
+
+If you know ahead of time that a date conflicts with something, please let me know as soon as possible.
 
 
 Rubric(s)
