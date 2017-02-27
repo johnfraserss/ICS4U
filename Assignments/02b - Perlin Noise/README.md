@@ -11,7 +11,7 @@ Modify the _README.md_ file in the **02b** folder to explain what your program d
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on February 28th, 2017
+To be uploaded to the repository by 11:59pm on March 3rd, 2017
 
 Rubric(s)
 ---------
