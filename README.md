@@ -59,3 +59,5 @@ Markdown Tools
 * [Markdown Pad 2 - Portable] (http://markdownpad.com/faq.html#portable)
 
 Please see the [GitHub Wiki](https://github.com/mrseidel-classes/ICS4U/wiki) for the rules and regulations of the classroom as decided by your peers.
+
+Please enter your [GitHub and 20Time details here](https://goo.gl/forms/5v259WFPKuWz9mlF2)
