@@ -20,7 +20,7 @@ Rubric(s)
 
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
-| A2.3: Update existing modular (broken down into classes and functions) code to enhance the functionality of the program |      |      |      |      |      |
+| A2.3: Update existing modular (broken down functions) code to enhance the functionality of the program |      |      |      |      |      |
 | A3.3: Create a function to add items to an array  |      |      |      |      |      |
 | A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.) |      |      |      |      |      |
 
