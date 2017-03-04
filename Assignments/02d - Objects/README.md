@@ -12,19 +12,17 @@ _Note:_ In P5.js, there are two ways of creating objects.  Either using a _const
 
 Submission Item(s)
 ------------------
-Submit your work into the **02d** folder of your repository.
-Modify the _README.md_ file in the **02d** folder to explain what your program 
+Submit your work into the **02d** folder of your repository.  
+Modify the _README.md_ file in the **02d** folder to explain what your program does.
 
 Due Date(s)
 -------------
 To be uploaded to the repository by 11:59pm on March 8th, 2017
-_**There will be an functions and objects test on March 9th, 2017 in class to ensure understanding**_
+_**There will be a functions and objects test on March 9th, 2017 in class to ensure understanding**_
 
 Rubric(s)
 ---------
-This rubric is out of a total of 16
-
-| | 0 | 1 | 2 | 3 | 4 |
+| | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
 |A2.1: Create a modular program that is divided among multiple files (classes in separate files)  | | | | | |
 |A2.2: Use modular design concepts that support reusable code (i.e. encapsulation, functions, etc.)  | | | | | |
