@@ -18,7 +18,7 @@ To be uploaded to the repository by 11:59pm on March 3rd, 2017
 Rubric(s)
 ---------
 
-|                                          | 0    | 1    | 2    | 3    | 4    |
+|                                          | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | A2.3: Update existing modular (broken down functions) code to enhance the functionality of the program |      |      |      |      |      |
 | A3.3: Create a function to add items to an array  |      |      |      |      |      |
