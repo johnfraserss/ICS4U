@@ -16,7 +16,7 @@ To be uploaded to the repository by 11:59pm on March 3rd, 2017
 Rubric(s)
 ---------
 
-| | 0 | 1 | 2 | 3 | 4 |
+| | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
 |A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |
 |A4.3: Create fully documented (and well-named) program code according to industry standards (**javadocs/jsdocs**, block comments, line comments, variable names, etc.)  | | | | | |
