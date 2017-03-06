@@ -5,8 +5,7 @@ Task(s)
 3. Document your work properly.
 4. Resources below might prove useful.  
 
-  * [Objects in p5js](http://coursescript.com/notes/interactivecomputing/objects/)
-  * [Objects in p5js - Example](https://p5js.org/examples/examples/Objects_Objects.php)
+  * [Objects in p5js - Example](https://p5js.org/examples)
   
 _Note:_ In P5.js, there are two ways of creating objects.  Either using a _constructor function_ style or a JSON style.  We will revisit the world of JSON in a later topic (03c), but we will be using the _constructor function_ style frequently in the class as well.  You will want to be familiar with both.
 
