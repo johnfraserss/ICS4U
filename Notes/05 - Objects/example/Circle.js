@@ -17,13 +17,17 @@ function Circle(r, g, b) {
   this.b = b;
 
   /**
-   * This moves the circle around the screen
+   * Moves the circle around the screen
    */
   this.move = function() {
     this.x += this.xspeed;
     this.y += this.yspeed;
   }
 
+  /**
+   * Checks to see if the circle has hit 
+   * the edge of the canvas
+   */
   this.edges = function() {
     if (this.x < 0 || this.x > width) {
       this.xspeed *= -1;
@@ -33,6 +37,9 @@ function Circle(r, g, b) {
     }
   }
 
+  /**
+   * Draws the circle on the screen
+   */
   this.render = function() {
     fill(this.r, this.g, this.b);
     ellipse(this.x, this.y, 10, 10);
