@@ -97,12 +97,19 @@ If you know ahead of time that a date conflicts with something, please let me kn
 
 Rubric(s)
 ---------
+How to read the rubric below:
+* The overall sections (_B1_, _B2_, and _D4_) will be used to generate a mark
+* The subsections (e.g. _B1.1_, _B1.4_, etc.) will be used to assess your understanding of the overall sections.
+  * For example, _B1.1_, _B1.4_, and _B1.6_ will be used to generate a level for section _B1_ and so on through the various sections.
 
-| | 0 | 1 | 2 | 3 | 4 |
+| | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|B1.1 - create a project plan by producing a scope document to determine purpose, audience, timeline, resources required (plan)  | | | | | |
-|B1.4 - use appropriate project management tool(s) to manage project components (GitHub, calendar, etc.) | | | | | |
-|B1.6 - review the project and prepare report (reflection)  | | | | | |
-|B2.2 - demonstrate the ability to meet project goals and deadlines (plan, log sheets, project, reflection, presentation, etc.)  | | | | | |
-|B2.3 - reflect on, and assess, individual progress (reflection and log sheets)  | | | | | |
-|D4.4 - evaluate their own development of work habits that are important for success (reflection)  | | | | | |
+| **B1: Can manage the development process effectively, through all stages: planning, development, production and closing**  | | | | | |
+| B1.1: Create a project plan by producing a scope document to determine purpose, audience, timeline, resources required (plan)  | | | | | |
+| B1.4: Use appropriate project management tool(s) to manage project components (GitHub, calendar, etc.) | | | | | |
+| B1.6: Review the project and prepare report (reflection)  | | | | | |
+| **B2: Apply standard project management techniques in the context of a student-managed team product**  | | | | | |
+| B2.2: Demonstrate the ability to meet project goals and deadlines (plan, log sheets, project, reflection, presentation, etc.)  | | | | | |
+| B2.3: Reflect on, and assess, individual progress (reflection and log sheets)  | | | | | |
+| **D4: Evaluate own work habits**  | | | | | |
+| D4.4: Evaluate their own development of work habits that are important for success (reflection)  | | | | | |
