@@ -22,6 +22,3 @@ Rubric(s)
 |                                          | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | A1.5: Use the pixels array to read colour information |      |      |      |      |      |
-
-
-The final mark for this assignment will be calculated as: __Mark = R * C__ where **R = Rubric total** and **C = Completed the task as requested/described (worth 0 or 1)**
