@@ -1,7 +1,7 @@
 Task(s)
 -------
 
-This is a 4-day group project, completed entirely in class.
+This is a 4-day group project, completed entirely in class.  This project replaces **06 - Project Management**, feel free to delete that folder from your repository.
 
 | Day   | Topic |
 | ---   | ----- |
