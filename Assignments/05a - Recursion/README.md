@@ -24,12 +24,12 @@ Submission Item(s)
 Due Date(s)
 -------------
 To be uploaded to the repository by 11:59pm on May 3rd, 2017  
-**There will be a recursion test on May 4th, 2017 in class to ensure understanding**_
+_**There will be a recursion test on May 4th, 2017 in class to ensure understanding**_
 
 Rubric(s)
 ---------
 
-| | 0 | 1 | 2 | 3 | 4 |
+| | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
 |A3.6: Design a simple and efficient recursive algorithm  | | | | | |
 |A4.1: Work independently, using support documentation to resolve syntax issues during software development  | | | | | |
