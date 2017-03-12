@@ -1,6 +1,6 @@
 Task(s)
 -------
-0. **Before** starting this task, go to **[04c - APIs (Wordnik)]()** and complete steps 1 and 2.
+0. **Before** starting this task, go to **[04c - APIs (Wordnik)](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04c%20-%20APIs%20(Wordnik))** and complete steps 1 and 2.
 1. Create a small program that reads the ```rhesus.txt``` file contained within this repository. (Original unedited file also given).
 2. Store the first word of every sentence in an array.
 3. Display the information from the array in a visually pleasing way (don't just list them in one tall column).
