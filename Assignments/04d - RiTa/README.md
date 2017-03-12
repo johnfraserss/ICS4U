@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. Make of copy of your [04b - Regular Expressions]() project.
+1. Make of copy of your [04b - Regular Expressions](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04b%20-%20Regular%20Expressions%20(Regex)) project.
 2. Modify the copied code to include the use of RiTa, and then:
   * Calculate how many pronouns, nouns (non-plural), and verbs exist.
   * Display your 3 numbers using the HTML DOM.  Include text labels for clarity.  Ensure you use ```noCanvas()``` in ```setup()```.
