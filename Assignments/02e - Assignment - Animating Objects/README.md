@@ -1,10 +1,10 @@
 Task(s)
 -------
 1. Create a program that proves you understand the following concepts:
-	1. Objects
-	2. HTML and DOM usage
-	3. Perlin Noise
-	4. Functions and Documentation
+   * Objects
+   * HTML and DOM usage
+   * Perlin Noise
+   * Functions and Documentation
 2. Your program must have **objects** moving around the screen.
 3. Your program cannot resemble the work from sections **02a, 02b, 02c,** or **02d**.  This must be a new program.
 4. Document your work. 
@@ -24,7 +24,7 @@ How to read the rubric below:
 * The overall sections (_A1_, _A2_, _A3_, and _A4_) will be used to generate a mark
 * The subsections (e.g. _A1.1_, _A1.2_, etc.) will be used to assess your understanding of the overall sections.
   * For example, _A1.1_, _A1.2_, _A1.3_, and _A1.4_ will be used to generate a level for section _A1_. and so on through the various sections.
-  * All subsections from **02a, 02b, 02c,** and **02d** will also be used to generate a mark for this section.
+  * All subsections from **02a, 02b, 02c,** and **02d** will also be used to help generate a mark for this section.
 
 | | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
