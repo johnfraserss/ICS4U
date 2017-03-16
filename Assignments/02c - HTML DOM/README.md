@@ -1,7 +1,7 @@
 
 Task(s)
 -------
-1. Using your new found knowledge of the HTML DOM and P5.js you are to:
+Using your new found knowledge of the HTML DOM and P5.js you are to:
   * Create a new program, or update a previous program to include arrays (if need be)
   * Create at least one textbox to receive information from the DOM.  Save this information into the array.
   * Create at least one slider to modify some portion of your program.
