@@ -10,9 +10,9 @@ Task(s)
   * A list - ordered or unordered, your choice.
 * The content of the file should be a short blurb about what you did this summer.  Remember to keep all items school appropriate.
 
-* [Presentation] (https://www.swipe.to/3967cd)
-* [Markdown Lesson] (http://www.markdowntutorial.com/lesson/1/)
-* [Markdown Cheat Sheet] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Presentation](https://www.swipe.to/3967cd)
+* [Markdown Lesson](http://www.markdowntutorial.com/lesson/1/)
+* [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 Submissables
 ------------------
