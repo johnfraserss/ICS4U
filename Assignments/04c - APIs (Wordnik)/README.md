@@ -2,16 +2,16 @@ Task(s)
 -------
 1. [Sign up for a Wordnik account](https://www.wordnik.com/signup)
 2. [Apply for an API key with Wordnik](http://developer.wordnik.com/) (should be done ahead of time, takes a few days to get the key)
-3. Using Wordnik, retrieve definitions, related words, and phrases from 10 words of your choice (school appropriate).  Once you retrieve the words, create an HTML page that displays 
+3. Using Wordnik, retrieve definitions, related words, and phrases from 10 words of your choice (school appropriate).  Once you retrieve the words, create an HTML page that displays the information in some way, using ```noCanvas()```
 4. You can use [loadJSON()](https://p5js.org/reference/) from P5.js to read the data received from the API
 5. Resource(s) below might prove useful:  
-  - [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
+   * [Daniel Shiffman - Wordnik and JavaScript Video](https://www.youtube.com/watch?v=YsgdUaOrFnQ)
 
 Submission Item(s)
 ------------------
-1. Rename the **03c - APIs** folder to **04c - APIs (Wordnik)**
-2. Submit your work into the **04c** folder of your repository.
-3. Modify the _README.md_ file in the **04c** folder to explain what your program does.
+Rename the **03c - APIs** folder to **04c - APIs (Wordnik)**  
+Submit your work into the **04c** folder of your repository.  
+Modify the _README.md_ file in the **04c** folder to explain what your program does.
 
 Due Date(s)
 -------------
