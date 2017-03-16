@@ -1,25 +1,22 @@
 Task(s)
 -------
 1. Prove you understand recursion in a P5js or Processing environment.  Do **not** use work from:
-	1. Grade 11, or
-	2. Last semester's class, or
-	3. [Generating a fractal tree](https://www.youtube.com/watch?v=0jjeOYMjmDU).
+   * Grade 11, or
+   * Last semester's class, or
+   * [Generating a fractal tree](https://www.youtube.com/watch?v=0jjeOYMjmDU).
 2. To prove your understanding, create a program that displays an animated visual that is themed as one of the following: **_Earth_**, **_Air_**, **_Fire_**, or **_Water_**. (do not use the same theme as a previous assignment).
 3. Document your work properly.
 4. Resources below might prove useful.  
-
-  * [Recursion in Processing (Nature of Code)](http://natureofcode.com/book/chapter-8-fractals/)
-  * [Recursion in Processing (Fractals) (Video)](https://www.youtube.com/watch?v=s3Facu6ZVeA)
-  * [Objects in p5js - Example (Circles)](https://p5js.org/examples/examples/Structure_Recursion.php)
-  * [Objects in p5js - Example (Fractal Tree) (Video)](https://www.youtube.com/watch?v=0jjeOYMjmDU)
+   * [Recursion in Processing (Nature of Code)](http://natureofcode.com/book/chapter-8-fractals/)
+   * [Recursion in Processing (Fractals) (Video)](https://www.youtube.com/watch?v=s3Facu6ZVeA)
+   * [Objects in p5js - Example (Circles)](https://p5js.org/examples/examples/Structure_Recursion.php)
+   * [Objects in p5js - Example (Fractal Tree) (Video)](https://www.youtube.com/watch?v=0jjeOYMjmDU)
   
-
-
 Submission Item(s)
 ------------------
-1. Rename the **04a - Recursion** folder to **05a - Recursion**
-2. Submit your work into the **05a** folder of your repository.
-3. Modify the _README.md_ file in the **05a** folder to explain what your program does.
+Rename the **04a - Recursion** folder to **05a - Recursion**  
+Submit your work into the **05a** folder of your repository.  
+Modify the _README.md_ file in the **05a** folder to explain what your program does.
 
 Due Date(s)
 -------------
