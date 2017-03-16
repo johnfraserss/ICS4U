@@ -59,9 +59,9 @@ Timeline(s) and Due Date(s)
 * Finalized log sheet by May 6th, 2017 at 11:59pm.
 * Presentation files by May 6th, 2017 at 11:59pm.
 
-####The following dates will be put aside for this project (pending no interruptions):
+#### The following dates will be put aside for this project (pending no interruptions):
 * February 16th, 23rd
-* March 1st, 8th, 22nd, 29th
+* March 1st, 8th, 20th, 29th
 * April 6th, 13th, 20th, 27th
 * May 3rd, 4th, 5th
 
@@ -92,7 +92,8 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 
 Presentation order was chosen randomly by placing all names (excluding mine) in a list and running them through [this](https://www.random.org/lists/) website 5 times.
 
-If you know ahead of time that a date conflicts with something, please let me know as soon as possible.
+If you know ahead of time that a date conflicts with something, please let me know as soon as possible.  
+If you wish to change timeslots, you will have to find someone to swap with yourself.  Once the two of you have agreed upon a swap, let your teacher know so that he can switch names in this list.
 
 
 Rubric(s)
