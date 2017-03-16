@@ -11,7 +11,7 @@ Task(s)
 
 Submission Item(s)
 ------------------
-Submit your work into the **02e** folder of your repository.
+Submit your work into the **02e** folder of your repository.  
 Modify the _README.md_ file in the **02e** folder to explain what your program 
 
 Due Date(s)
