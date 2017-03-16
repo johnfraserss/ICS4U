@@ -2,9 +2,9 @@ Task(s)
 -------
 1. Find a document on [Project Gutenberg - Canada](http://www.gutenberg.ca/#h3completecatalogue).  When you find one that you like, download the **Text** version of it.
 2. Complete the following tasks with your text file:
-  * Create a canvas that has a visualization of the text that satisfies the rubric below
-  * Make use of at least 1 HTML/DOM item
-  * If you want, you can also use the Wordnik API to help with your visualization
+   * Create a canvas that has a visualization of the text that satisfies the rubric below
+   * Make use of at least 1 HTML/DOM item
+   * If you want, you can also use the Wordnik API to help with your visualization
 3. Your program cannot resemble the work from sections **04a, 04b, 04c,** or **04d**.  This must be a new program.
 4. Sample visualizations can be seen [here][1], [here][2], [here][3], [here][4], [here][5], [here][6], and [here][7].
 
@@ -18,9 +18,9 @@ Task(s)
 
 Submission Item(s)
 ------------------
-1. Rename the **03e - Assignment - Text Visualization** folder to **04e - Assignment - Text Visualization**
-2. Submit your work into the **04e** folder of your repository.
-3. Modify the _README.md_ file in the **04e** folder to explain what your program does.
+Rename the **03e - Assignment - Text Visualization** folder to **04e - Assignment - Text Visualization**  
+Submit your work into the **04e** folder of your repository.  
+Modify the _README.md_ file in the **04e** folder to explain what your program does.
 
 Due Date(s)
 -----------
@@ -32,7 +32,7 @@ How to read the rubric below:
 * The overall sections (_A1_, _A2_, _A3_, and _A4_) will be used to generate a mark
 * The subsections (e.g. _A1.1_, _A1.3_, etc.) will be used to assess your understanding of the overall sections.
   * For example, _A1.1_, _A1.3_, and _A1.5_ will be used to generate a level for section _A1_. and so on through the various sections.
-  * All subsections from **04a, 04b, 04c,** and **04d** will also be used to generate a mark for this section.
+  * All subsections from **04a, 04b, 04c,** and **04d** will also be used to help generate a mark for this section.
 
 |                                          | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
