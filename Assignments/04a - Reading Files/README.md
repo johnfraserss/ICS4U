@@ -6,15 +6,15 @@ Task(s)
 3. Display the information from the array in a visually pleasing way (don't just list them in one tall column).
 3. Document your work properly.
 4. Resources below might prove useful.
-  * [Project Gutenberg - Canada](http://www.gutenberg.ca/#catalogueA)
-  * [p5.js - loadStrings()](https://p5js.org/reference)
-  * [p5.js - preload()](https://p5js.org/reference)
+   * [Project Gutenberg - Canada](http://www.gutenberg.ca/#catalogueA)
+   * [p5.js - loadStrings()](https://p5js.org/reference)
+   * [p5.js - preload()](https://p5js.org/reference)
 
 Submission Item(s)
 ------------------
-1. Rename the **03a - Reading Files** folder to **04a - Reading Files**
-2. Submit your work into the **04a** folder of your repository.
-3. Modify the _README.md_ file in the **04a** folder to explain what your program does.
+Rename the **03a - Reading Files** folder to **04a - Reading Files**  
+Submit your work into the **04a** folder of your repository.  
+Modify the _README.md_ file in the **04a** folder to explain what your program does.
 
 Due Date(s)
 -------------
