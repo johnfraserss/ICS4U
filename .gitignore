@@ -1,0 +1,6 @@
+#OS-based binary files
+.DS_Store
+Thumbs.db
+
+#Java files
+.class
