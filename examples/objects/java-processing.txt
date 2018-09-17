@@ -20,7 +20,21 @@ class Book {
    *
    */
   public Book (String author, String title){
-    this.price = 5.00;
+    this.price = 0.00;
+    this.author = author;
+    this.title = title;
+  }
+  
+    /**
+   * This is the constructor function for new books
+   * 
+   * @param author - This is the initial author
+   * @param title - This is the initial title of the book
+   * @param price - This is the initial price of the book
+   *
+   */
+  public Book (String author, String title, float price){
+    this.price = price;
     this.author = author;
     this.title = title;
   }
@@ -29,21 +43,21 @@ class Book {
    * Prints out the author of the book
    */
   public void printAuthor() {
-    System.out.println(author);
+    System.out.println("Author: " + author);
   }
 
   /**
    * Prints out the title of the book
    */
   public void printTitle() {
-    System.out.println(title);
+    System.out.println("Title: " + title);
   }
 
   /**
    * Prints out the price of the book
    */
   public void printPrice() {
-    System.out.println(price);
+    System.out.println("Price: $" + float(int(price * 100)) / 100.0);
   }
 
   /**
