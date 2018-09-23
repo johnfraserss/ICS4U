@@ -54,7 +54,7 @@ public class Book {
   }
 
   /// <summary>
-  /// Prints out the author of the book
+  /// Attempts to increase the price of the book
   /// <returns> true if it is successful in modifying the price, false otherwise. </returns>
   /// </summary>
   boolean increasePrice(float increase) {

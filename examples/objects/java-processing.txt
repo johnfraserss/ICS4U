@@ -61,7 +61,7 @@ class Book {
   }
 
   /**
-   * Prints out the author of the book
+   * Attempst to increase the price of the book
    * 
    * @param increase This is the amount to increase the price of the book
    * @return true if it is successful in modifying the price, false otherwise.
