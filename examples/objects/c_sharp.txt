@@ -23,9 +23,9 @@ public class Book {
 
   /// <summary>
   /// The class constructor
+  /// </summary>
   /// <param name="author"> Initial author of the book</param>
   /// <param name="title"> Initial title of the book</param>
-  /// </summary>
   public Book (String author, String title){
     this.price = 5.00;
     this.author = author;
@@ -55,8 +55,9 @@ public class Book {
 
   /// <summary>
   /// Attempts to increase the price of the book
-  /// <returns> true if it is successful in modifying the price, false otherwise. </returns>
   /// </summary>
+  /// <param="increase"> Price to increase by </param>
+  /// <returns> true if it is successful in modifying the price, false otherwise. </returns>
   boolean increasePrice(float increase) {
     //Can put in a section here to ensure success of increase.
     //Going to assume success in adding the increase to the price.
