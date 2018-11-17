@@ -1,0 +1,1 @@
+Interfaces are not necessary in Python, as Python objects allow for multiple inheritance.
