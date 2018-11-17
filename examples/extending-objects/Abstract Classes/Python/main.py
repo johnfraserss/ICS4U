@@ -1,6 +1,7 @@
 # Example retrieved from https://www.python-course.eu/python3_inheritance.php
 # Date retrieved: Nov 15, 2018
-# Example slightly modified
+# Example slightly modified with information from https://www.python-course.eu/python3_abstract_classes.php
+
 
 from person import Person
 from employee import Employee
