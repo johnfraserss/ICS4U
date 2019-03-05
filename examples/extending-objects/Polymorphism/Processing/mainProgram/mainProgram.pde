@@ -1,4 +1,4 @@
-Person people = new Person[2];
+Person [] people = new Person[2];
 
 void settings() {}
 void setup() {
