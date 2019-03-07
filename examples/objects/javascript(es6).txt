@@ -11,8 +11,8 @@ class Book {
    * This function is the constructor function for a Book object (modified from https://thimble.mozilla.org/en-US/anonymous/1dbb9564-0bc8-4a2e-94e8-ba6f6690fb69/304196)
    * This has been updated to use ES6 script
    * @constructor
-   * @param author - This is the initial author (will be a private instance variable)
-   * @param title - This is the initial title of the book (will be a private instance variable)
+   * @param {string} author - This is the initial author (will be a private instance variable)
+   * @param {string} title - This is the initial title of the book (will be a private instance variable)
    */
   constructor(author, title) {
     this.author = author;
@@ -63,7 +63,7 @@ class Book {
    * Increases the price of the book based on the value given
    * This has been updated to use ES6 script
    *  
-   * @param value - This is the value to increase the price by.
+   * @param {number} value - This is the value to increase the price by.
    */
   increasePrice (value) {
     price = price + value;
