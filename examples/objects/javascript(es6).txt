@@ -23,39 +23,21 @@ class Book {
    * Prints out the author of the book
    */
   printAuthor () {
-    document.writeln(author);
-  }
-
-  /**
-   * Creates a setter method to set an author's name (if it changes in the future).
-   * How to use this? (example)
-   *   book.author = 'Arthur'
-   */
-  set author (author) {
-    this.author = author;
-  }
-
-  /**
-   * Creates a getter method to get an author's name from inside the object
-   * How to use this? (example)
-   *   console.log(book.author) //prints out 'Arthur' based on the getter above.
-   */
-  get author (author) {
-    return this.author;
+    console.log(this.author);
   }
 
   /**
    * Prints out the author of the book
    */
   printTitle () {
-    document.writeln(title);
+    console.log(this.title);
   }
 
   /**
    * Prints out the author of the book
    */
   printPrice () {
-    document.writeln(price);
+    console.log(this.price);
   }
 
 
@@ -66,7 +48,7 @@ class Book {
    * @param {number} value - This is the value to increase the price by.
    */
   increasePrice (value) {
-    price = price + value;
+    this.price = this.price + value;
   }
 
 }
