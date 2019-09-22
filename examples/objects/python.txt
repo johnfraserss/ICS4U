@@ -10,7 +10,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     17-Sep-2018
-# Updated:     17-Sep-2018
+# Updated:     22-Sep-2019 (updated typos)
 #-----------------------------------------------------------------------------
 
 class Book():
@@ -133,7 +133,7 @@ class Book():
 		if self.price + increase > 0:
 			self.price += increase
 			return True
-		return Falses
+		return False
 
 bookOne = Book("Terry Pratchett", "Guards! Guards!", 5.99)
 bookTwo = Book("Robert Jordan", "The Eye of the World", 8.99)
