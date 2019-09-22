@@ -3,7 +3,6 @@
  * This has been updated to use ES6 script
  * 
  * @class
- * @return the object that contains the information and functions for this Book object
  */
 class Book {
 
