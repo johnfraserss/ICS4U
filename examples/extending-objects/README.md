@@ -7,7 +7,7 @@ There are multiple ways to save time and force cohesion between different progra
 | ----------------- | ------------ | ----------------------------- |
 | **Interfaces** | Create a template of methods <br/><br/> Seen as a "contract" | C#, Java, Kotlin and Processing have support for this.  This is a work-around to the multiple-inheritance problem, and helps programmers to conform to a standard.  <br/><br/>Python and JavaScript do not support interfaces. |
 | **Abstract Classes** | Like interfaces; however, you can create the body of functions and instance variables | C++, C#, Java, Kotlin, Python, and Processing all support abstract classes. <br/><br/> JavaScript does not support abstract classes natively.  There are design patterns that allow JavaScript to act like it has abstract classes (where the example focuses). |
-| **Inheritance** | Full access to parent class | c++, C#, Java, Kotlin, Python, JavaScript and Processing all have support for this.  Out of the list, only Python allows for multiple-inheritance (usually more difficult to work with) |
+| **Inheritance** | Full access to parent class | C++, C#, Java, Kotlin, Python, JavaScript and Processing all have support for this.  Out of the list, only Python allows for multiple-inheritance (usually more difficult to work with) |
 
 # Polymorphism
 
