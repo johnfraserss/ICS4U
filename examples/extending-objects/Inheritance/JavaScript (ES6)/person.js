@@ -6,6 +6,6 @@ class Person {
 	}
 
     whoAmI() {
-        return self.firstname + " " + self.lastname + ", " + str(self.age)
+        return self.firstname + " " + self.lastname + ", " + self.age.toString()
 	}
 }

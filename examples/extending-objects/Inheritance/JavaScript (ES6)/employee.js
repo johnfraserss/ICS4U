@@ -8,6 +8,6 @@ class Employee extends Person {
 	}
 		
     whoAmI() {
-        return super().__str__() + ", " +  self.staffnumber
+        return this.first + " " + this.last + ", " +  self.staffnumber
 	}
 }

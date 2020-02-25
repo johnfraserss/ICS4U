@@ -45,8 +45,6 @@ Book.prototype.increasePrice = function (value) {
   this.price = this.price + value;
 }
 
-}
-
 /**
  * Function used to test the creation of objects
  */
