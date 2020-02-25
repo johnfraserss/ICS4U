@@ -1,11 +1,12 @@
 /**
- * If you are not using P5.js and are instead using Node.JS, you can use the the FS (file system) library to access local files
+ * If you are not using P5.js and are instead using Node.JS, you can use the FS (file system) library to access local files
  */
 
 let fs = require("fs");
 
 /**
- * read the file using the fs library - Please note that this operation is asynchronous  
+ * read the file using the fs library - Please note that this operation is asynchronous 
+ *   Asynchronous meaning: it won't wait to complete the operation before continuing through the program
  * fs.readFile returns an error and data object
  */ 
 fs.readFile('input.txt', (err, data) => {
