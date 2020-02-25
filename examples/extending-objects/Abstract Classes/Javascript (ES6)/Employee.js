@@ -5,6 +5,7 @@ import Person from './Person';
 class Employee extends Person {
 
     constructor(name, age) {
+        super()
         this.name = name;
         this.age = age;
     }
