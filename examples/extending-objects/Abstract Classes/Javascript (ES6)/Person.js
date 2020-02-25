@@ -1,5 +1,3 @@
-'use strict'
-
 /*
 In ECMAScript, abstract classes haven't been implemented like they have been in other OOP-based languages (Python, Java, etc.)
 If you want to make an abstract class in Javascript, follow something similar to the pattern described below.

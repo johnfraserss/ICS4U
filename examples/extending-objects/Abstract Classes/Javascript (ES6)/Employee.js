@@ -1,5 +1,4 @@
 // import files according to your own file structure
-'use strict'
 import Person from './Person';
 
 class Employee extends Person {
