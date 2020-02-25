@@ -6,8 +6,8 @@ class Employee extends Person {
         this.employeeNum = employeeNum;
         this.tenure = tenure;
     }
-
+    
     toString() {
-        return (super().__str__() + ", " + this.employeeNum + ", " + this.tenure)
+        return (this.age + ", " + this.name + ", " + this.employeeNum + ", " + this.tenure)
     }
 }
