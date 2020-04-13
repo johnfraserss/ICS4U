@@ -7,18 +7,14 @@
  * @constructor
  * @param {string} author - This is the initial author (will be a private instance variable)
  * @param {string} title - This is the initial title of the book (will be a private instance variable)
+ * @param {number} price - This is the initial price of the book (defaults to 0.00 if no value given)
 */
-let Book = function(author, title) {
-  this.author = author;
-  this.title = title;
-  this.price = 0.00;
-}
-
-let Book = function(author, title, price) {
+let Book = function(author, title, price = 0.00) {
   this.author = author;
   this.title = title;
   this.price = price;
 }
+
 
 /**
 * Returns the author of the book
@@ -61,19 +57,19 @@ Book.prototype.increasePrice = function (value) {
  * Function used to test the creation of objects
  */
 function testing(){
-  var a = new Book("Terry Pratchett", "Guards! Guards!");
-  var b = new Book("Robert Jordan", "The Eye of the World");
-  a.printAuthor();
-  a.printPrice();
-  a.increasePrice(3.33);
-  a.increasePrice(2.33);
-  a.increasePrice(4.33);
-  a.printPrice();
-  
-  b.printAuthor();
-  b.printPrice();
-  b.increasePrice(1);
-  b.printPrice();
+    var bookOne = new Book("Terry Pratchett", "Guards! Guards!", 5.99);
+    var bookTwo = new Book("Robert Jordan", "The Eye of the World", 8.99);
+    console.log(bookOne.getAuthor());
+    console.log(bookOne.getPrice());
+    console.log(bookOne.getTitle());
+    bookOne.increasePrice(1.00);
+    console.log(bookOne.getPrice());
+
+    console.log(bookTwo.getAuthor());
+    console.log(bookTwo.getPrice());
+    console.log(bookTwo.getTitle());
+    bookTwo.increasePrice(-6.00);
+    console.log(bookTwo.getPrice());
 }
 
 testing();
