@@ -11,28 +11,40 @@
 let Book = function(author, title) {
   this.author = author;
   this.title = title;
-  this.price = 0;
+  this.price = 0.00;
+}
+
+let Book = function(author, title, price) {
+  this.author = author;
+  this.title = title;
+  this.price = price;
 }
 
 /**
-* Prints out the author of the book
+* Returns the author of the book
+*
+* @returns {string}
 */
-Book.prototype.printAuthor = function() {
-  console.log(this.author);
+Book.prototype.getAuthor = function() {
+  return this.author;
 }
 
 /**
- * Prints out the author of the book
- */
-Book.prototype.printTitle = function() {
-  console.log(this.title);
+* Returns the title of the book
+*
+* @returns {string}
+*/
+Book.prototype.getTitle = function() {
+  return this.title;
 }
 
 /**
- * Prints out the author of the book
- */
-Book.prototype.printPrice = function() {
-  console.log(this.price);
+* Returns the price of the book
+*
+* @returns {number}
+*/
+Book.prototype.getPrice = function() {
+  return this.price;
 }
 
 /**

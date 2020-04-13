@@ -10,7 +10,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     17-Sep-2018
-# Updated:     22-Sep-2019 (updated typos)
+# Updated:     13-Apr-2020 (updated methods to be "get" instead of "print" for better encapsulation)
 #-----------------------------------------------------------------------------
 
 class Book():
@@ -29,11 +29,11 @@ class Book():
 	Methods
 	-------
 	# note, do not list private methods in this section.  Do not include this line
-	printAuthor() -> None
+	getAuthor() -> str
 		Prints the name of the author to the console
-	printPrice() -> None
+	getPrice() -> float
 		Prints the price of the book to the console
-	printTitle() -> None
+	getTitle() -> str
 		Prints the name of the book to the console
 	increasePrice(increase : float) -> None
 		Attempts to increase the price by a float value
@@ -66,38 +66,39 @@ class Book():
 		self.title = title
 		
 		
-	def printAuthor(self) -> None:
+	def getAuthor(self) -> str:
 		'''
-		Prints the name of the author to the console
+		Returns the author of the book
 		
-		
-		.. warning:: The rest of the documentation will be here at some point.
+		Returns
+		-------
+		The author of the book
 		
 		'''
-		print(self.author)
-		return
+		return self.author
 	
 	
-	def printPrice(self) -> None:
+	def getPrice(self) -> float:
 		'''
-		Prints the price of the book to the console
+		Returns the price of the book
 		
-		.. warning:: The rest of the documentation will be here at some point.
-		
+		Returns
+		-------
+		The price of the book as a float
+				
 		'''
-		print(self.price)
-		return
+		return float(self.price)
 		
 		
-	def printTitle(self) -> None:
+	def getTitle(self) -> str:
 		'''
-		Prints the title of the book to the console
+		Returns the title of the book to the console
 		
-		.. warning:: The rest of the documentation will be here at some point.
-		
+		Returns
+		-------
+		The title of the book
 		'''
-		print(self.title)
-		return
+		return self.title
 	
 	
 	def increasePrice(self, increase : float) -> None:
@@ -138,17 +139,17 @@ class Book():
 bookOne = Book("Terry Pratchett", "Guards! Guards!", 5.99)
 bookTwo = Book("Robert Jordan", "The Eye of the World", 8.99)
 
-bookOne.printAuthor()
-bookOne.printPrice()
-bookOne.printTitle()
-bookOne.increasePrice(1)
-bookOne.printPrice()
+print(bookOne.getAuthor());
+print(bookOne.getPrice());
+print(bookOne.getTitle());
+bookOne.increasePrice(1.00);
+print(bookOne.getPrice());
 
-bookTwo.printAuthor()
-bookTwo.printPrice()
-bookTwo.printTitle()
-bookTwo.increasePrice(-6)
-bookTwo.printPrice()
+print(bookTwo.getAuthor());
+print(bookTwo.getPrice());
+print(bookTwo.getTitle());
+bookTwo.increasePrice(-6.00);
+print(bookTwo.getPrice());
 try:
 	bookTwo.increasePrice("Hello!")
 except TypeError:
