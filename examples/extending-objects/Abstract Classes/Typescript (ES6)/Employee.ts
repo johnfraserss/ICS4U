@@ -2,8 +2,10 @@
 import Person from './Person';
 
 class Employee extends Person {
+    name;
+    age;
 
-    constructor(name, age) {
+    constructor(name: string, age: number) {
         super()
         this.name = name;
         this.age = age;
@@ -14,4 +16,4 @@ class Employee extends Person {
     }
 }
 
-export default Employee;
+export default Employee
