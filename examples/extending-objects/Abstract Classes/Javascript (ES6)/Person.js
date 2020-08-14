@@ -4,7 +4,7 @@ If you want to make an abstract class in Javascript, follow something similar to
 */
 class Person {
     constructor() {
-        // using new.target from ES2015, we prevent the Abstract class of Pesron from directly being instantiated
+        // using new.target from ES2015, we prevent the Abstract class of Person from directly being instantiated
         if (new.target === Person) {
             throw new TypeError("Can't directly instantiate an Abstract Class");
         }
