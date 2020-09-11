@@ -25,7 +25,7 @@ const insertionSort = (array) => {
         array[j + 1] = array[j];
         j = j - 1;
     }
-    // reset the values
+    // set the key in the right spot
     array[j + 1] = key;
   }
   return array;
