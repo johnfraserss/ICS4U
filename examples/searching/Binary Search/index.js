@@ -68,8 +68,8 @@ const recursiveSearch = (array, x, start, end) => {
 };
 
 // driver code for testing
-let array = [1, 3, 5, 8, 10];
-let x = 8;
+const array = [1, 3, 5, 8, 10]; // side note: use const for objects you won't modify. It's good practice
+const x = 8;
 
 recursiveSearch(array, x, 0, array.length - 1)
   ? console.log(`${x} was found in the array`)
