@@ -13,5 +13,3 @@ class Employee extends Person {
        return this.name + " " + this.age
     }
 }
-
-export default Employee;
