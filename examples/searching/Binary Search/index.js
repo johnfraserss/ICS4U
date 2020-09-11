@@ -1,14 +1,13 @@
 /**
  * Binary Search
+ * 
+ * Time complexity: O(logN)
+ *   - significantly faster than linear search at scale
  *
  * Given an element X in an array, binary search will find whether
  * or not X exists in that array
  *
  * NOTE: this assumes the array is sorted
- *
- * This is significantly faster than Linear Search [O(N) time complexity]
- * with a time complexity of [O(logN)]
- *
  */
 
 /**
@@ -73,4 +72,4 @@ const x = 8;
 
 recursiveSearch(array, x, 0, array.length - 1)
   ? console.log(`${x} was found in the array`)
-  : console.error(` ${x} was not found in the array`);
+  : console.error(`${x} was not found in the array`);
