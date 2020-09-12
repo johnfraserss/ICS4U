@@ -16,12 +16,19 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Recursively finds the factorial of N
+ * 
+ * @param N a positive integer
+ * @param product the product of previous steps, 1 for the first
+ * @return factorial of N
+ */
 int recursiveFactorial(int N, int product = 1)
 {
   /**
-     * Start off by checking to see if N is equal to 1. If it is, we can just return
-     * the product since any number times 1 is equal to that number.
-     */
+   * Start off by checking to see if N is equal to 1. If it is, we can just return
+   * the product since any number times 1 is equal to that number.
+   */
   if (N == 1)
   {
     // notice that the default value of product is set to 1, so that 1! = 1, and
@@ -31,9 +38,9 @@ int recursiveFactorial(int N, int product = 1)
   else
   {
     /**
-       * If N isn't equal to one, there's more numbers to multiply We pass N-1 into
-       * `recursiveFactorial` as N, as well as the product, which is just product*N.
-       */
+     * If N isn't equal to one, there's more numbers to multiply We pass N-1 into
+     * `recursiveFactorial` as N, as well as the product, which is just product*N.
+     */
     return recursiveFactorial(N - 1, product * N);
   }
 }
