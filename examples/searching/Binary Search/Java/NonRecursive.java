@@ -49,7 +49,8 @@ class NonRecursive {
        *
        * 1. The element in the middle is less than `X` - search on the right side of
        * the array since all those values are guaranteed to be greater than
-       * `array[middleOfArray]` 2. The element in the middle is greater than `X` -
+       * `array[middleOfArray]` 
+       * 2. The element in the middle is greater than `X` -
        * search on the left side of the array since all those values are guaranteed to
        * be less than `array[middleOfArray]`
        */
