@@ -44,7 +44,7 @@ bool nonRecursiveSearch(vector<int> array, int x) {
       * Before we do anything else, let's see if the middle item in the array matches
       * the one we're searching for
       */
-    if (array.at(middleOfArray) == x)
+    if (array[middleOfArray] == x)
       return true;
 
     /**
@@ -57,7 +57,7 @@ bool nonRecursiveSearch(vector<int> array, int x) {
       * search on the left side of the array since all those values are guaranteed to
       * be less than `array[middleOfArray]`
       */
-    else if (array.at(middleOfArray) < x) {
+    else if (array[middleOfArray] < x) {
       start = middleOfArray + 1;
     } else {
       end = middleOfArray - 1;
@@ -120,7 +120,7 @@ bool nonRecursiveSearch(vector<int> array, int x) {
       * Before we do anything else, let's see if the middle item in the array matches
       * the one we're searching for
       */
-    if (array.at(middleOfArray) == x)
+    if (array[middleOfArray] == x)
       return true;
 
     /**
@@ -133,7 +133,7 @@ bool nonRecursiveSearch(vector<int> array, int x) {
       * search on the left side of the array since all those values are guaranteed to
       * be less than `array[middleOfArray]`
       */
-    else if (array.at(middleOfArray) < x) {
+    else if (array[middleOfArray] < x) {
       start = middleOfArray + 1;
     } else {
       end = middleOfArray - 1;

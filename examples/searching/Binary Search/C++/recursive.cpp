@@ -46,7 +46,7 @@ bool recursiveSearch(vector<int> array, int x, int start, int end) {
     * Before we do anything else, let's see if the middle item in the array matches
     * the one we're searching for
     */
-  if (array.at(middleOfArray) == x)
+  if (array[middleOfArray] == x)
     return true;
 
   /**
@@ -60,7 +60,7 @@ bool recursiveSearch(vector<int> array, int x, int start, int end) {
     * greater than `array[middleOfArray]`
     */
 
-  if (array.at(middleOfArray) > x) {
+  if (array[middleOfArray] > x) {
     // we recursively call the binary search function with a new domain to search
     return recursiveSearch(array, x, start, middleOfArray - 1);
   } else {
