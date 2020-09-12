@@ -10,7 +10,6 @@
  * NOTE: this assumes the array is sorted
  */
 
-import java.lang.Math;
 
 class NonRecursive {
   /**
