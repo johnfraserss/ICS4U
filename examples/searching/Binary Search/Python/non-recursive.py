@@ -65,7 +65,7 @@ def nonRecursiveSearch(array, x):
       end = middleOfArray - 1
 
 # driver code for testing
-array = [1, 3, 5, 8, 10] # side note: use const for objects you won't modify. It's good practice
+array = [1, 3, 5, 8, 10]
 x = 8
 
 print('{x} was found in the array'.format(x = x)) if nonRecursiveSearch(array, x) else print('{x} was not found in the array'.format(x = x))

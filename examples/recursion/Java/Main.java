@@ -13,15 +13,15 @@
  * So how do we implement this in code?
  */
 
- 
+
 class Main {
 
   /**
    * Recursively finds the factorial of N
    * 
-   * @param {number} N a positive integer
-   * @param {number} product the product of previous steps, 1 for the first
-   * @return {number} factorial of N
+   * @param {int} N a positive integer
+   * @param {int} product the product of previous steps, 1 for the first
+   * @return {int} factorial of N
    */
   public static int recursiveFactorial(int N, int product) {
     /**

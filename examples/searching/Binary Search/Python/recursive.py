@@ -70,7 +70,7 @@ def recursiveSearch(array, x, start, end):
     return recursiveSearch(array, x, middleOfArray + 1, end)
 
 # driver code for testing
-array = [1, 3, 5, 8, 10] # side note: use const for objects you won't modify. It's good practice
+array = [1, 3, 5, 8, 10]
 x = 8
 
 print('{x} was found in the array'.format(x = x)) if recursiveSearch(array, x, 0, len(array) - 1) else print('{x} was not found in the array'.format(x = x))
