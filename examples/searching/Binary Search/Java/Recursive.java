@@ -35,7 +35,7 @@ class Recursive {
      * a value, we split the array in half here
      *
      * To find the middle index of the array, we add up the starting and ending
-     * index, divide that by 2, and round down (Java integer divison rounds down automatically)
+     * index, divide that by 2, and round down (Java integer division rounds down automatically)
      */
     int middleOfArray = (start + end) / 2;
 
