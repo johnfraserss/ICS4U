@@ -15,10 +15,10 @@
 using namespace std; 
 
 /**
-  * Sorts an array in ascending order
+  * Sorts a vector in ascending order
   * 
-  * @param array the array to sort
-  * @returns the sorted array
+  * @param vector<int> the vector to sort
+  * @returns the sorted vector
   */
 vector<int> bubbleSort(vector<int> array) {
   int length = array.size();
