@@ -1,13 +1,13 @@
-
 /**
  * Binary Search
  *
  * Time complexity: O(logN) - significantly faster than linear search at scale
  *
- * Given an element X in an array, binary search will find whether or not X
- * exists in that array
+ * Given an element X in an vector, binary search will find whether or not X
+ * exists in that vector
  *
- * NOTE: this assumes the array is sorted
+ * NOTE: this assumes the vector is sorted
+ * NOTE: confused about what a vector is? Look here: https://www.geeksforgeeks.org/vector-in-cpp-stl/
  */
 
 
@@ -16,11 +16,11 @@
 using namespace std; 
 
 /**
-  * Recursively searches the array for the element x
+  * Recursively searches the vector for the element x
   * 
-  * @param array sorted array to search in
+  * @param array sorted vector to search in
   * @param x     the element to find
-  * @return does the element x exist in the array
+  * @return does the element x exist in the vector
   */
 bool nonRecursiveSearch(vector<int> array, int x) {
   int start = 0, end = array.size() - 1;
