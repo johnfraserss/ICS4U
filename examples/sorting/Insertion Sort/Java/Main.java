@@ -12,6 +12,8 @@
  * This means that by the time the sort moves the last item in the array, the array
  * would already be sorted
  */
+
+// import java.util.Arrays to print out the array for testing
 import java.util.Arrays;
 
 class Main {
