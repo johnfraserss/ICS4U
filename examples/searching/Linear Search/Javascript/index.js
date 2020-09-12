@@ -25,7 +25,7 @@ const linearSearch = (array, x) => {
   
   /**
    * Using the `forEach` array method to take each element of the array
-   * as `item` and comparing it to x.s
+   * as `item` and comparing it to x.
    * 
    * If it equals x, we set found to true, if none of them equal x,
    * then the function returns false.
