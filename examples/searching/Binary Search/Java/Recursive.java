@@ -16,11 +16,11 @@ class Recursive {
   /**
    * Recursively searches the array for the element x
    * 
-   * @param {int} array sorted array to search in
-   * @param {int} x the element to find
-   * @param {int} start starting index of search
-   * @param {int} end ending index of search
-   * @return {boolean} does the element x exist in the array
+   * @param array sorted array to search in
+   * @param x the element to find
+   * @param start starting index of search
+   * @param end ending index of search
+   * @return does the element x exist in the array
    */
   public static boolean recursiveSearch(int[] array, int x, int start, int end) {
     /**

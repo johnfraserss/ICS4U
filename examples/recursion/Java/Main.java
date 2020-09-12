@@ -19,9 +19,9 @@ class Main {
   /**
    * Recursively finds the factorial of N
    * 
-   * @param {int} N a positive integer
-   * @param {int} product the product of previous steps, 1 for the first
-   * @return {int} factorial of N
+   * @param N a positive integer
+   * @param product the product of previous steps, 1 for the first
+   * @return factorial of N
    */
   public static int recursiveFactorial(int N, int product) {
     /**
