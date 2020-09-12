@@ -1,6 +1,6 @@
 /**
  * Binary Search
- * 
+ *
  * Time complexity: O(logN)
  *   - significantly faster than linear search at scale
  *

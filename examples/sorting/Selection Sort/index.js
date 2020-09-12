@@ -5,7 +5,7 @@
  *   - pretty slow, but not too bad on a small scale
  * 
  * For each item of the array, selection sort loops through the array again
- * to see if there's values lesser than the current minimum value.
+ * to see if there are values less than the current minimum value.
  * 
  * This is a very roundabout way to sort an array, but it works. 
  */

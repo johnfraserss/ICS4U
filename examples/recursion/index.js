@@ -4,8 +4,8 @@
  * Recursion is essentially just calling a function in itself until a certain
  * value or expected response is returned.
  * 
- * In this example, we'll use factorials as an example of recursion.
- * Factorials (in case you weren't aware already) are mathematically represted by `N!`
+ * In this example, we'll use factorials as an example.
+ * Factorials (in case you weren't aware already) are mathematically represented by `N!`
  * where N is a positive integer, and ! is the factorial operator. 
  * 
  * Take `4!`, this is equal to 4 x 3 x 2 x 1, or 24

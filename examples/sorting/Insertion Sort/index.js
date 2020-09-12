@@ -1,5 +1,5 @@
 /**
- * Insert sort
+ * Insertion sort
  * 
  * Time complexity: O(N^2)
  *   - outperforms more complex sorts with small lists due to its low hidden constant value

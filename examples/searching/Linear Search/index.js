@@ -9,7 +9,7 @@
  * array in order until you find X. 
  * 
  * The benefit of linear search is that the array doesn't have to 
- * be sorted since you're looping thorugh the entire array.
+ * be sorted since you're looping through the entire array.
  */
 
 /**
