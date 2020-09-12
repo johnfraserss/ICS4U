@@ -29,7 +29,7 @@ const factorialOfN = 4*3*2*1;
 /**
  * Approach with recursion
  * 
- * With recursion, we're also given a postive integer N.
+ * With recursion, we're also given a positive integer N.
  * You may have noticed that there's a pattern, for any N, 
  * `N!` is equivalent to `N * N-1 * N-2 * ... * 1`.
  * 

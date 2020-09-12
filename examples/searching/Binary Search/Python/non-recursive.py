@@ -46,9 +46,6 @@ def nonRecursiveSearch(array, x):
     '''
     Before we do anything else, let's see if the
     middle item in the array matches the one we're searching for
-    
-    NOTE: Javascript uses triple equality - if you're interested in why,
-    google to learn more about truthy/falsy in Javascript
     '''
     if (array[middleOfArray] == x): 
       return True
