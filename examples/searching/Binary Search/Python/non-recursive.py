@@ -13,14 +13,15 @@
 import math
 
 def nonRecursiveSearch(array, x):
-  '''Recursively searches the array for the element x
+  '''
+  Recursively searches the array for the element x
   
-  Parameters:
-  array (array): sorted array to search in
-  x (any): the element to find
+      Parameters:
+        array (array): sorted array to search in
+        x (any): the element to find
 
-  Returns:
-  boolean: does the element x exist in the array
+      Returns:
+        boolean: does the element x exist in the array
   '''
   
   start = 0

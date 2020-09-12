@@ -13,16 +13,17 @@
 import math
 
 def recursiveSearch(array, x, start, end):
-  '''Recursively searches the array for the element x
+  '''
+  Recursively searches the array for the element x
   
-  Parameters:
-  array (array): sorted array to search in
-  x (any): the element to find
-  start (number): starting index of search
-  end (number): ending index of search
+      Parameters:
+        array (array): sorted array to search in
+        x (any): the element to find
+        start (number): starting index of search
+        end (number): ending index of search
 
-  Returns:
-  boolean: does the element x exist in the array
+      Returns:
+        boolean: does the element x exist in the array
   '''
   
   '''
