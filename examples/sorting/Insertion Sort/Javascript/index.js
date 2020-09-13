@@ -12,6 +12,11 @@
  * would already be sorted
  */
 
+/**
+ * Sorts an array in ascending order
+ * @param {array} array the array to sort
+ * @returns {array} the sorted array
+ */
 const insertionSort = (array) => {
   let length = array.length;
   for (let i = 1; i < length; i++) {

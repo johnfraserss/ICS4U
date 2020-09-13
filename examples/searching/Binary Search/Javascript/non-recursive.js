@@ -10,6 +10,12 @@
  * NOTE: this assumes the array is sorted
  */
 
+ /**
+  * Recursively searches the array for the element x
+  * @param {array} array sorted array to search in
+  * @param {number} x the element to find
+  * @returns {boolean} does the element x exist in the array
+  */
 const nonRecursiveSearch = (array, x) => {
   let start = 0,
     end = array.length - 1;
