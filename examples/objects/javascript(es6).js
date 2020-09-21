@@ -53,9 +53,14 @@ class Book {
    * This has been updated to use ES6 script
    *  
    * @param {number} value - This is the value to increase the price by.
+   * @returns {bool} - true if this succeeded, false if the value would decrease
    */
   increasePrice (value) {
+    if (value < 0) {
+      return false
+    }
     this.price = this.price + value;
+    return true;
   }
 
 }
