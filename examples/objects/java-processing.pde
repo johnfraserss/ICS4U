@@ -77,9 +77,9 @@ class Book {
    * @return true if it is successful in modifying the price, false otherwise.
    */
   public boolean increasePrice(double increase) {
-    //Can put in a section here to ensure success of increase.
-    //Going to assume success in adding the increase to the price.
-
+    if (increase < 0) { // this is a decrease, not increase
+      return false;
+    }
     price = price + increase;
     return true;
   }
