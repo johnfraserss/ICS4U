@@ -21,10 +21,10 @@ class Book {
   }
 
   /**
-	* Returns the author of the book
-	*
-	* @returns {string}
-	*/
+   * Returns the author of the book
+   *
+   * @returns {string} - the author of the book
+   */
   getAuthor () {
     return this.author;
   }
@@ -32,7 +32,7 @@ class Book {
   /**
    * Returns the title of the book
    *
-   * @returns {string}
+   * @returns {string} - the title of the book
    */
   getTitle () {
     return this.title;
@@ -41,7 +41,7 @@ class Book {
   /**
    * Returns the price of the book
    *
-   * @returns {number}
+   * @returns {number} - the price of the book
    */
   getPrice () {
     return this.price;
