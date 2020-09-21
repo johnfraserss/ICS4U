@@ -59,6 +59,8 @@ Book::Book (string _author, string _title, double _price){
 
 /**
 * Returns the author of the book
+*
+* @return the author of the book
 */
 string Book::getAuthor() {
 	return author;
@@ -75,6 +77,8 @@ string Book::getTitle() {
 
 /**
 * Returns the price of the book as a double
+*
+* @return the price of the book
 */
 double Book::getPrice() {
 	return price;
@@ -87,9 +91,9 @@ double Book::getPrice() {
 * @return true if it is successful in modifying the price, false otherwise.
 */
 bool Book::increasePrice(double increase) {
-	//Can put in a section here to ensure success of increase.
-	//Going to assume success in adding the increase to the price.
-
+	if (increase < 0) {	// this is a decrease, not an increase
+		return false;
+	}
 	price = price + increase;
 	return true;
 }
