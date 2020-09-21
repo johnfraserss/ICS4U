@@ -50,7 +50,11 @@ Book.prototype.getPrice = function() {
  * @param {number} value - This is the value to increase the price by.
  */
 Book.prototype.increasePrice = function (value) {
+  if (value < 0) { // this would be a decrease, not an increase
+    return false;
+  }
   this.price = this.price + value;
+  return true;
 }
 
 /**
