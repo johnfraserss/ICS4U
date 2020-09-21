@@ -101,7 +101,7 @@ class Book():
 		return self.title
 	
 	
-	def increasePrice(self, increase : float) -> None:
+	def increasePrice(self, increase : float) -> bool:
 		'''
 		Attempts to increase the price of the book
 		
