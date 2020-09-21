@@ -39,6 +39,7 @@ public class Book {
   /// </summary>
   /// <param name="author"> Initial author of the book</param>
   /// <param name="title"> Initial title of the book</param>
+  /// <param name="price"> Initial price of the book</param>
   public Book (string author, string title, double price){
     this.price = price;
     this.author = author;
@@ -75,8 +76,9 @@ public class Book {
   /// <param="increase"> Price to increase by </param>
   /// <returns> true if it is successful in modifying the price, false otherwise. </returns>
   public bool increasePrice(double increase) {
-    //Can put in a section here to ensure success of increase.
-    //Going to assume success in adding the increase to the price.
+    if (increase < 0) { // this is a decrease, not an increase
+      return false;
+    }
 
     price = price + increase;
     return true;
