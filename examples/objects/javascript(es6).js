@@ -30,19 +30,19 @@ class Book {
   }
 
   /**
-	* Returns the title of the book
-	*
-	* @returns {string}
-	*/
+   * Returns the title of the book
+   *
+   * @returns {string}
+   */
   getTitle () {
     return this.title;
   }
 
   /**
-	* Returns the price of the book
-	*
-	* @returns {number}
-	*/
+   * Returns the price of the book
+   *
+   * @returns {number}
+   */
   getPrice () {
     return this.price;
   }
