@@ -20,7 +20,7 @@ print(string)
 #Formatting (Works for all versions of Python)
 # {} denotes a placeholder for a variable
 string = "Hello! My name is {} and I am {} years old.".format(name, age) #Variables are put in order at which they appear
-string = "Hello! My name is {name} and I am {age} years old.".format(name=name, age=age) #Can also be written like this
+string = "Hello! My name is {x} and I am {y} years old.".format(x=name, y=age) #Can also be written using keyword arguments (kwargs)
 print(string)
 
 #% String Formatting (Works for all versions of Python)
