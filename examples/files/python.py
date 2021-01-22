@@ -4,7 +4,7 @@
 
 #CONVENTIONAL WAY OF READING FILES
 with open('filename.txt','r') as textFile:
-	file = textFile.readlines() # this reads in all the files to create a list called "file"
+    file_content = textFile.readlines() # this reads in all the files to create a list called "file_content"
 	# Closes file automatically
 
 
@@ -16,8 +16,10 @@ with open('filename.txt','r') as textFile:
 
 '''
 
-for line in file:
-  print(line)
+for line in file_content:
+    print(line)
+
+
 
 
 
@@ -32,7 +34,7 @@ output_string += 'This is line 2\n'
 #CONVENTIONAL WAY OF WRITING TO FILES 
 '''
 with open('filename.txt','w') as outfile : # w is used to overwrite a file.  You can use 'a' to append to a file instead
-	outfile.write(output_string) # outputs the string to the text file. 
+    outfile.write(output_string) # outputs the string to the text file. 
 '''
 
 
