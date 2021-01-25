@@ -13,31 +13,31 @@ would already be sorted
 '''
 
 def insertionSort(array):
-  '''
-  Sorts an array in ascending order
+    '''
+    Sorts an array in ascending order
 
-      Parameters:
+    Parameters:
         array (array) the array to sort
       
-      Returns:
+    Returns:
         (array): the sorted array
-  '''
+    '''
 
-  length = len(array)
-  for i in range(1, length-1):
-    # use the current array item as a key to compare
-    key = array[i]
+    length = len(array)
+    for i in range(1, length-1):
+        # use the current array item as a key to compare
+        key = array[i]
 
-    # set index to start comparison with
-    j = i - 1
-    # find a spot in the left sublist for the key to go
-    while (j >= 0 and array[j] > key):
-        array[j + 1] = array[j]
-        j = j - 1
+        # set index to start comparison with
+        j = i - 1
+        # find a spot in the left sublist for the key to go
+        while (j >= 0 and array[j] > key):
+            array[j + 1] = array[j]
+            j = j - 1
 
-    # set the key in the right spot
-    array[j + 1] = key
-  return array
+        # set the key in the right spot
+        array[j + 1] = key
+    return array
  
 
 # driver code to test
