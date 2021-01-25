@@ -89,4 +89,4 @@ f-string PROS
 # - Formatting is the best to use if you are on a python version lower than 3.6
 # - F-Strings are the best to use if you are on python 3.6 or above
 # - Concatenation should be avoided when possible
-# - %s String Formatting can be used but should be avoided if not needed (e.g. PyMySQL requires the use of %s String formatting to avoid SQL Injections)
+# - %s String Formatting can be used but should be avoided if not needed
