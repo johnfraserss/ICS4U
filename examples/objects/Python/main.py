@@ -30,8 +30,8 @@ print(bookTwo.getTitle());
 bookTwo.increasePrice(-6.00);
 print(bookTwo.getPrice());
 try:
-	bookTwo.increasePrice("Hello!")
+    bookTwo.increasePrice("Hello!")
 except TypeError:
-	print ("Raised a TypeError as expected")
+    print("Raised a TypeError as expected")
 except Exception:
-	print ("Some other Error popped up?")
+    print("Some other Error popped up?")

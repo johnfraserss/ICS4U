@@ -38,31 +38,32 @@ we can make a function that recursively calculates the factorial of N
 '''
 
 def recursiveFactorial(N, product = 1):
-  '''
-  Recursively finds the factorial of N
+    '''
+    Recursively finds the factorial of N
    
-      Parameters:
+    Parameters:
         N (integer): a positive integer
         product (integer): the product of previous steps, 1 for the first
   
-      Returns:
+    Returns:
         (integer): factorial of N
-  '''
+    '''
 
 
-  '''
-  Start off by checking to see if N is equal to 1. 
-  If it is, we can just return the product since any number times 1
-  is equal to that number.
-  '''
-  if (N == 1):
-    # notice that the default value of product is set to 1, so that 1! = 1, and that N*1 = N
-    return product
-  else:
-    #  If N isn't equal to one, there's more numbers to multiply
-    #  We pass N-1 into `recursiveFactorial` as N, as well as the product, which is
-    #  just product*N.
-    return recursiveFactorial(N-1, product*N)
+    '''
+    Start off by checking to see if N is equal to 1. 
+    If it is, we can just return the product since any number times 1
+    is equal to that number.
+    '''
+   
+    if (N == 1):
+        # notice that the default value of product is set to 1, so that 1! = 1, and that N*1 = N
+        return product
+    else:
+        #  If N isn't equal to one, there's more numbers to multiply
+        #  We pass N-1 into `recursiveFactorial` as N, as well as the product, which is
+        #  just product*N.
+        return recursiveFactorial(N-1, product*N)
 
 # driver code to test
 print(recursiveFactorial(4)) # should be 24
