@@ -24,7 +24,7 @@ def insertionSort(array):
     '''
 
     length = len(array)
-    for i in range(1, length-1):
+    for i in range(1, length):
         # use the current array item as a key to compare
         key = array[i]
 
@@ -41,5 +41,5 @@ def insertionSort(array):
  
 
 # driver code to test
-array = [2, 1, 3, 4, 5]
+array = [2, 1, 3, 5, 4]
 print(insertionSort(array)) # should equal [1, 2, 3, 4, 5]
