@@ -28,7 +28,7 @@ def bubbleSort(array):
     while True:
         swapped = False
         # loop through the entire array to perform swaps
-        for i in range(0, length-1):
+        for i in range(0, length):
             # if the current value is greater than the value to the right of it, swap
             if (array[i] > array[i + 1]):
                 tempValue = array[i]
