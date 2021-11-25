@@ -33,10 +33,10 @@ def selectionSort(array):
     positions in the array since we're sorting by ascending order
     and continue looking for items of lesser value to swap
     '''
-    for i in range(0, length-1):
+    for i in range(0, length):
         # we hold the minimum value's index here
         minimumIndex = i
-        for j in range(i+1, length-1):
+        for j in range(i+1, length):
             # if a value lesser than the current value of array[minimumIndex] is found, we swap it
             if (array[j] < array[minimumIndex]): minimumIndex = j
 
