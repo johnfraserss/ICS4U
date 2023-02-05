@@ -7,3 +7,4 @@ The location of documentation guidelines for select languages
 * [Java](https://www.tutorialspoint.com/java/java_documentation.htm)
 * [JavaScript](https://jsdoc.app/)
 * [Python (PEP257)](https://peps.python.org/pep-0257/) and [Python (PEP8)](https://peps.python.org/pep-0008/)
+* [Go](https://go.dev/doc/comment)
