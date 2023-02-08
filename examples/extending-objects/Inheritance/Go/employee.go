@@ -8,5 +8,5 @@ type Employee struct {
 }
 
 func (employee Employee) String() string {
-	return fmt.Sprintf("%s, %d", &employee.Person, employee.staffNumber)
+	return fmt.Sprintf("%s, %d", employee.Person, employee.staffNumber)
 }
