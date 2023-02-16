@@ -2,7 +2,13 @@ package main
 
 import "fmt"
 
-// InchesToCentimeters returns inches in centimeters.
+/*
+InchesToCentimeters converts a quantity in inches to centimeters.
+
+Parameter: inches, float32 -> the value of the measurement to convert
+
+Returns: float32 -> the converted value
+*/
 func InchesToCentimeters(inches float32) float32 {
 	return inches * 2.54
 }
