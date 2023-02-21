@@ -7,7 +7,7 @@ type Person struct {
 	age                 uint
 }
 
-// Returns a string representation of a Person
+// Method function on Employee, returns a string representation of a Person
 func (person Person) String() string {
 	return fmt.Sprintf("%s %s, %d", person.firstName, person.lastName, person.age)
 }
