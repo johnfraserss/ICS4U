@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// Make an employee representing Homer
 	homer := Employee{
 		Person: AbstractPerson{
 			firstName: "Homer",
@@ -12,6 +13,7 @@ func main() {
 		staffNumber: 1007,
 	}
 
+	// Create an array of people
 	simpsons := make([]Person, 1)
 	simpsons[0] = homer
 
