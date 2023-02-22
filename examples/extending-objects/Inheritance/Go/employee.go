@@ -2,13 +2,17 @@ package main
 
 import "fmt"
 
-// Inherits a Person object, and adds on a staffNumber
+// A struct representing an Employee, inherting from Person
+// Note that Go doesn't actually have classes (it's not really OOP https://go.dev/doc/faq#Is_Go_an_object-oriented_language),
+// hence why structs are used instead.
 type Employee struct {
 	Person
 	staffNumber uint
 }
 
-// Method function on Employee, returns a string representation of the employee
+// Method function on Employee that performs string conversion.
+//
+// Returns a string representation of an Employee.
 func (employee Employee) String() string {
 	return fmt.Sprintf("%s, %d", employee.Person, employee.staffNumber)
 }
