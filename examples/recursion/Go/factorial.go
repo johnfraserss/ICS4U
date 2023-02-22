@@ -18,41 +18,41 @@ import "fmt"
 
 // recursiveFactorial returns the factorial of n.
 func recursiveFactorial(n int) int {
-	// Base case: n <= 1
-	// 1 is the last number that we should be multiplying with, so just return n back
-	if n <= 1 {
-		return n
-	}
+    // Base case: n <= 1
+    // 1 is the last number that we should be multiplying with, so just return n back
+    if n <= 1 {
+        return n
+    }
 
-	// Return n * (n - 1)!, where (n - 1)! is just calling the func again but with n - 1
-	return n * recursiveFactorial(n-1)
+    // Return n * (n - 1)!, where (n - 1)! is just calling the func again but with n - 1
+    return n * recursiveFactorial(n-1)
 }
 
 func main() {
-	/**
-	 * Naive approach
-	 *
-	 * In this approach, we're given N, and we store the factorial of N in a variable
-	 * The factorial of N is manually calculated by typing everything out.
-	 *
-	 * As you may have predicted, this won't hold true for all integers N, if N was 5, then
-	 * `N!` wouldn't be equivalent to 4*3*2*1
-	 */
-	n := 4
-	nFactorial := 4 * 3 * 2 * 1
-	fmt.Printf("Factorial of %d (naive): %d\n", n, nFactorial)
+    /**
+     * Naive approach
+     *
+     * In this approach, we're given N, and we store the factorial of N in a variable
+     * The factorial of N is manually calculated by typing everything out.
+     *
+     * As you may have predicted, this won't hold true for all integers N, if N was 5, then
+     * `N!` wouldn't be equivalent to 4*3*2*1
+     */
+    n := 4
+    nFactorial := 4 * 3 * 2 * 1
+    fmt.Printf("Factorial of %d (naive): %d\n", n, nFactorial)
 
-	/**
-	 * Approach with recursion
-	 *
-	 * With recursion, we're also given a positive integer N.
-	 * You may have noticed that there's a pattern, for any N,
-	 * `N!` is equivalent to `N * N-1 * N-2 * ... * 1`.
-	 *
-	 * The pattern above holds true for any integer N, so, based off of that,
-	 * we can make a function that recursively calculates the factorial of N
-	 */
-	fmt.Printf("Factorial of %d (recursive): %d\n", n, recursiveFactorial(n))
+    /**
+     * Approach with recursion
+     *
+     * With recursion, we're also given a positive integer N.
+     * You may have noticed that there's a pattern, for any N,
+     * `N!` is equivalent to `N * N-1 * N-2 * ... * 1`.
+     *
+     * The pattern above holds true for any integer N, so, based off of that,
+     * we can make a function that recursively calculates the factorial of N
+     */
+    fmt.Printf("Factorial of %d (recursive): %d\n", n, recursiveFactorial(n))
 }
 
 // Still confused? There's a lengthy explanation below

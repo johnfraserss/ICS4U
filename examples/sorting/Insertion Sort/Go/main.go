@@ -14,26 +14,26 @@ package main
 import "fmt"
 
 func insertionSort(arr []int) []int {
-	length := len(arr)
+    length := len(arr)
 
-	for i := 1; i < length; i++ {
-		// use current element as point of comparison
-		key := arr[i]
+    for i := 1; i < length; i++ {
+        // use current element as point of comparison
+        key := arr[i]
 
-		j := i - 1 // set idx to start comparison with
-		// find a spot in the left of the arr where key fits
-		for ; j >= 0 && arr[j] > key; j-- {
-			arr[j+1] = arr[j]
-		}
+        j := i - 1 // set idx to start comparison with
+        // find a spot in the left of the arr where key fits
+        for ; j >= 0 && arr[j] > key; j-- {
+            arr[j+1] = arr[j]
+        }
 
-		// put key in right spot
-		arr[j+1] = key
-	}
+        // put key in right spot
+        arr[j+1] = key
+    }
 
-	return arr
+    return arr
 }
 
 func main() {
-	arr := []int{3, 2, 6, 4, 1, 5}
-	fmt.Println("Sorted array:", insertionSort(arr))
+    arr := []int{3, 2, 6, 4, 1, 5}
+    fmt.Println("Sorted array:", insertionSort(arr))
 }
