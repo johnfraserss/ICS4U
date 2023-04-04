@@ -1,21 +1,20 @@
-// assuming include of <string> and using the same namespace
+#include <string>
+using namespace std;
 
 class Person {
   protected:
-	string firstName;
-	string lastName;
-	int age;
-  
+  	string firstName;
+  	string lastName;
+  	int age;
+    
   public:
-	Person(string firstName, string lastName, int age) {
-		this.firstName = firstName;
-		this.lastName = lastName;
-		this.age = age;
-	}
-	
-	~Person();
+  	Person(string firstName, string lastName, int age) {
+  		this->firstName = firstName;
+  		this->lastName = lastName;
+  		this->age = age;
+  	}
 	
     string toString() {
-		return this.firstName + " " + this.lastName + ", " + this.age;
+		return this->firstName + " " + this->lastName + ", " + to_string(this->age);
 	}
 };

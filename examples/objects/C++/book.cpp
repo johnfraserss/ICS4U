@@ -1,5 +1,8 @@
+#include <string>
+#include "book.h"
+using namespace std;
 /**
- * A Object holding the price, author, and title of a book
+ * An Object holding the price, author, and title of a book
  * 
  * @author Mr. Seidel
  * @since 23-Sep-2018
@@ -10,21 +13,6 @@
  *  + "getX" methods
  *  + updated main() function
  */
-class Book {
-    private:
-        string author, title;  
-        double price;		
-
-    public:
-	    Book(string, string);
-	    Book(string, string, double);
-        ~Book();
-	    string getAuthor(void);
-	    string getTitle(void);
-	    double getPrice(void);
-	    bool increasePrice(double);
-};  // <--- note the semi-colon here
-
 	
 /**
 * This is the constructor function for new books
